@@ -27,8 +27,11 @@ var processPage = function(){
 	weaponsOnPage = casper.evaluate(function(){
 		var tempNames = [];
 		var weaponNames = document.querySelectorAll('a.market_listing_row_link div.market_listing_item_name_block span.market_listing_item_name');
+		var weaponQuantities = document.querySelectorAll('a.market_listing_row_link div.market_listing_right_cell span.market_listing_num_listings_qty');
+		var weaponPrices = document.querySelectorAll('a.market_listing_row_link div.market_listing_right_cell span:last-child');
 		for (var i = 0; i < weaponNames.length; i++) {
-			tempNames[i] = weaponNames[i].innerHTML;
+			var tempPrice = weaponPrices[i].innerHTML.substring(weaponPrices[i].innerHTML.indexOf("$"));
+			tempNames[i] = weaponNames[i].innerHTML.concat(" ", weaponQuantities[i].innerHTML, " ", tempPrice);
 		};
 		return tempNames;	
 	});
