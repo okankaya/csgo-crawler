@@ -1,916 +1,915 @@
-CS:GO Weapon Case 152,416 $0.05
-eSports 2013 Case 99,926 $0.04
-Operation Bravo Case 9,936 $0.61
-AUG | Wings (Factory New) 7,136 $0.11
-FAMAS | Doomkitty (Minimal Wear) 6,271 $0.08
-SG 553 | Ultraviolet (Field-Tested) 5,956 $0.10
-M4A4 | Faded Zebra (Field-Tested) 5,779 $0.07
-MAG-7 | Sand Dune (Field-Tested) 5,619 $0.05
-Sawed-Off | Irradiated Alert (Field-Tested) 5,605 $0.05
-MAC-10 | Tornado (Field-Tested) 5,600 $0.04
-FAMAS | Contrast Spray (Field-Tested) 5,599 $0.04
-MAG-7 | Irradiated Alert (Field-Tested) 5,599 $0.05
-XM1014 | Grassland (Field-Tested) 5,596 $0.04
-PP-Bizon | Forest Leaves (Field-Tested) 5,589 $0.05
-Nova | Walnut (Field-Tested) 5,588 $0.05
-PP-Bizon | Irradiated Alert (Field-Tested) 5,308 $0.03
-SG 553 | Tornado (Field-Tested) 5,131 $0.05
-Five-SeveN | Jungle (Field-Tested) 5,060 $0.05
-Nova | Forest Leaves (Field-Tested) 5,045 $0.04
-SSG 08 | Lichen Dashed (Field-Tested) 4,721 $0.05
-XM1014 | Urban Perforated (Field-Tested) 4,117 $0.07
-UMP-45 | Caramel (Field-Tested) 4,028 $0.05
-MP7 | Skulls (Field-Tested) 3,811 $0.09
-MAG-7 | Memento (Factory New) 3,770 $0.08
-MAC-10 | Urban DDPAT (Field-Tested) 3,740 $0.07
-CS:GO Weapon Case 2 3,686 $0.80
-MAG-7 | Memento (Minimal Wear) 3,385 $0.07
-MP7 | Skulls (Minimal Wear) 3,302 $0.10
-XM1014 | Grassland (Battle-Scarred) 1,626 $0.04
-MAG-7 | Irradiated Alert (Minimal Wear) 1,617 $0.05
-MAG-7 | Sand Dune (Battle-Scarred) 1,616 $0.04
-MAG-7 | Sand Dune (Minimal Wear) 1,610 $0.05
-SG 553 | Ultraviolet (Minimal Wear) 1,596 $0.08
-XM1014 | Grassland (Minimal Wear) 1,581 $0.05
-SG 553 | Ultraviolet (Battle-Scarred) 1,541 $0.10
-MAG-7 | Irradiated Alert (Battle-Scarred) 1,512 $0.04
-MAC-10 | Tornado (Battle-Scarred) 1,413 $0.05
-FAMAS | Contrast Spray (Minimal Wear) 1,408 $0.05
-Sawed-Off | Irradiated Alert (Minimal Wear) 1,400 $0.05
-XM1014 | Jungle (Field-Tested) 1,396 $0.05
-MAC-10 | Tornado (Minimal Wear) 1,390 $0.03
-PP-Bizon | Forest Leaves (Minimal Wear) 1,383 $0.05
-Sawed-Off | Irradiated Alert (Battle-Scarred) 1,368 $0.05
-FAMAS | Contrast Spray (Battle-Scarred) 1,331 $0.04
-Nova | Walnut (Minimal Wear) 1,323 $0.05
-PP-Bizon | Forest Leaves (Battle-Scarred) 1,320 $0.04
-PP-Bizon | Irradiated Alert (Battle-Scarred) 1,278 $0.04
-Five-SeveN | Jungle (Battle-Scarred) 1,261 $0.03
-Nova | Forest Leaves (Minimal Wear) 1,260 $0.04
-PP-Bizon | Irradiated Alert (Minimal Wear) 1,252 $0.05
-M4A4 | Faded Zebra (Minimal Wear) 1,245 $0.07
-Nova | Walnut (Battle-Scarred) 1,234 $0.05
-AUG | Wings (Minimal Wear) 1,214 $0.10
-Five-SeveN | Jungle (Minimal Wear) 1,208 $0.06
-Nova | Forest Leaves (Battle-Scarred) 1,207 $0.04
-SG 553 | Tornado (Minimal Wear) 1,187 $0.05
-SSG 08 | Lichen Dashed (Minimal Wear) 1,167 $0.05
-SSG 08 | Lichen Dashed (Battle-Scarred) 1,137 $0.06
-SG 553 | Tornado (Battle-Scarred) 1,126 $0.05
-XM1014 | Urban Perforated (Battle-Scarred) 1,121 $0.07
-M4A4 | Faded Zebra (Battle-Scarred) 1,092 $0.09
-Five-SeveN | Anodized Gunmetal (Factory New) 1,071 $0.09
-Glock-18 | Dragon Tattoo (Factory New) 1,040 $0.78
-SG 553 | Ultraviolet (Well-Worn) 1,021 $0.10
-M4A4 | Tornado (Field-Tested) 1,014 $0.08
-XM1014 | Urban Perforated (Minimal Wear) 1,012 $0.07
-MP7 | Groundwater (Field-Tested) 993 $0.04
-MAG-7 | Sand Dune (Well-Worn) 972 $0.06
-G3SG1 | Arctic Camo (Field-Tested) 969 $0.11
-UMP-45 | Caramel (Battle-Scarred) 969 $0.05
-M249 | Jungle DDPAT (Field-Tested) 961 $0.04
-MAC-10 | Urban DDPAT (Battle-Scarred) 955 $0.08
-MAC-10 | Urban DDPAT (Minimal Wear) 941 $0.09
-XM1014 | Grassland (Well-Worn) 937 $0.07
-M4A4 | Jungle Tiger (Field-Tested) 924 $0.09
-UMP-45 | Caramel (Minimal Wear) 923 $0.07
-P250 | Splash (Minimal Wear) 919 $0.57
-Sawed-Off | Irradiated Alert (Well-Worn) 914 $0.03
-FAMAS | Doomkitty (Field-Tested) 890 $0.08
-MAC-10 | Tornado (Well-Worn) 877 $0.05
-M4A4 | Desert Storm (Field-Tested) 871 $0.17
-M4A1-S | Dark Water (Minimal Wear) 868 $0.51
-MAG-7 | Irradiated Alert (Well-Worn) 845 $0.04
-M249 | Blizzard Marbleized (Field-Tested) 835 $0.08
-Tec-9 | Tornado (Field-Tested) 801 $0.04
-Five-SeveN | Jungle (Well-Worn) 797 $0.04
-SG 553 | Tornado (Well-Worn) 789 $0.05
-PP-Bizon | Forest Leaves (Well-Worn) 785 $0.05
-Nova | Forest Leaves (Well-Worn) 778 $0.04
-StatTrak™ SG 553 | Ultraviolet (Field-Tested) 772 $0.43
-M4A4 | Faded Zebra (Well-Worn) 768 $0.08
-AK-47 | Jungle Spray (Field-Tested) 761 $0.49
-SSG 08 | Lichen Dashed (Well-Worn) 758 $0.05
-M4A1-S | Dark Water (Field-Tested) 756 $0.51
-Nova | Tempest (Minimal Wear) 752 $0.13
-FAMAS | Contrast Spray (Well-Worn) 751 $0.05
-PP-Bizon | Irradiated Alert (Well-Worn) 722 $0.04
-PP-Bizon | Carbon Fiber (Factory New) 716 $0.51
-MP9 | Dry Season (Field-Tested) 709 $0.04
-Dual Berettas | Black Limba (Field-Tested) 707 $0.14
-Galil AR | Winter Forest (Field-Tested) 700 $0.09
-P250 | Gunsmoke (Field-Tested) 695 $0.16
-SCAR-20 | Palm (Field-Tested) 695 $0.16
-Nova | Walnut (Well-Worn) 671 $0.04
-G3SG1 | Demeter (Field-Tested) 644 $0.10
-StatTrak™ AUG | Wings (Factory New) 643 $0.85
-SG 553 | Wave Spray (Field-Tested) 641 $0.14
-USP-S | Dark Water (Minimal Wear) 622 $0.55
-Operation Bravo Pass 617 $3.18
-P2000 | Grassland Leaves (Field-Tested) 595 $0.12
-AK-47 | Predator (Field-Tested) 594 $0.54
-MAC-10 | Urban DDPAT (Well-Worn) 590 $0.10
-UMP-45 | Caramel (Well-Worn) 565 $0.07
-UMP-45 | Fallout Warning (Field-Tested) 558 $0.17
-P90 | Fallout Warning (Field-Tested) 556 $0.31
-Galil AR | Shattered (Field-Tested) 551 $0.10
-Galil AR | Orange DDPAT (Field-Tested) 551 $0.54
-Sawed-Off | Orange DDPAT (Field-Tested) 543 $0.55
-Operation Payback Pass 540 $2.30
-XM1014 | Fallout Warning (Field-Tested) 522 $0.16
-CS:GO Case Key 512 $2.70
-USP-S | Dark Water (Field-Tested) 510 $0.53
-XM1014 | Urban Perforated (Well-Worn) 488 $0.07
-UMP-45 | Bone Pile (Field-Tested) 444 $0.11
-StatTrak™ MP7 | Skulls (Field-Tested) 437 $0.43
-StatTrak™ FAMAS | Doomkitty (Minimal Wear) 425 $0.97
-Five-SeveN | Candy Apple (Minimal Wear) 410 $0.32
-MAG-7 | Memento (Field-Tested) 405 $0.16
-StatTrak™ MAG-7 | Memento (Minimal Wear) 393 $0.43
-UMP-45 | Bone Pile (Minimal Wear) 377 $0.16
-StatTrak™ M4A4 | Faded Zebra (Field-Tested) 339 $1.72
-StatTrak™ MAG-7 | Memento (Factory New) 335 $0.62
-Tec-9 | Blue Titanium (Factory New) 330 $0.10
-Desert Eagle | Hypnotic (Factory New) 313 $2.49
-M4A1-S | Bright Water (Minimal Wear) 312 $1.35
-StatTrak™ MP7 | Skulls (Minimal Wear) 307 $0.60
-XM1014 | Jungle (Minimal Wear) 280 $0.06
-Dual Berettas | Anodized Navy (Factory New) 275 $0.77
-M4A4 | Jungle Tiger (Battle-Scarred) 268 $0.07
-M4A4 | Tornado (Battle-Scarred) 267 $0.09
-XM1014 | Jungle (Battle-Scarred) 263 $0.06
-M4A1-S | Blood Tiger (Minimal Wear) 261 $1.01
-M249 | Jungle DDPAT (Battle-Scarred) 260 $0.04
-USP-S | Overgrowth (Field-Tested) 258 $0.87
-Tec-9 | Ossified (Factory New) 256 $0.48
-P250 | Hive (Minimal Wear) 248 $0.23
-SCAR-20 | Crimson Web (Field-Tested) 240 $0.10
-M249 | Blizzard Marbleized (Minimal Wear) 240 $0.15
-G3SG1 | Arctic Camo (Battle-Scarred) 216 $0.08
-Tec-9 | Tornado (Minimal Wear) 214 $0.05
-AUG | Hot Rod (Factory New) 208 $1.33
-FAMAS | Hexane (Field-Tested) 207 $0.15
-M4A4 | Tornado (Minimal Wear) 207 $0.13
-P2000 | Silver (Factory New) 207 $1.30
-Galil AR | Winter Forest (Battle-Scarred) 207 $0.12
-SCAR-20 | Palm (Minimal Wear) 207 $0.20
-M249 | Jungle DDPAT (Minimal Wear) 206 $0.05
-StatTrak™ SG 553 | Ultraviolet (Battle-Scarred) 203 $0.43
-M4A4 | Jungle Tiger (Minimal Wear) 202 $0.17
-M4A4 | Zirka (Field-Tested) 202 $0.93
-Dual Berettas | Black Limba (Battle-Scarred) 201 $0.13
-SG 553 | Wave Spray (Minimal Wear) 201 $0.15
-MP7 | Groundwater (Minimal Wear) 199 $0.06
-Dual Berettas | Black Limba (Minimal Wear) 198 $0.20
-Five-SeveN | Candy Apple (Factory New) 197 $0.55
-G3SG1 | Demeter (Minimal Wear) 194 $0.14
-AK-47 | Red Laminate (Field-Tested) 194 $3.10
-P250 | Gunsmoke (Battle-Scarred) 193 $0.15
-G3SG1 | Arctic Camo (Minimal Wear) 193 $0.21
-M4A1-S | Blood Tiger (Factory New) 189 $1.43
-FAMAS | Hexane (Minimal Wear) 182 $0.16
-M249 | Blizzard Marbleized (Well-Worn) 181 $0.10
-SCAR-20 | Splash Jam (Field-Tested) 181 $0.85
-AK-47 | Jungle Spray (Battle-Scarred) 181 $0.49
-M249 | Blizzard Marbleized (Battle-Scarred) 180 $0.11
-AK-47 | Predator (Battle-Scarred) 177 $0.57
-MP7 | Groundwater (Battle-Scarred) 176 $0.05
-Sawed-Off | Mosaico (Field-Tested) 176 $0.10
-P90 | Fallout Warning (Battle-Scarred) 175 $0.38
-SCAR-20 | Palm (Battle-Scarred) 174 $0.21
-M4A4 | Desert Storm (Minimal Wear) 174 $0.50
-StatTrak™ SG 553 | Ultraviolet (Minimal Wear) 174 $0.73
-SG 553 | Wave Spray (Battle-Scarred) 173 $0.10
-Sawed-Off | Orange DDPAT (Minimal Wear) 171 $0.55
-M4A4 | Desert Storm (Battle-Scarred) 170 $0.21
-Tec-9 | Tornado (Battle-Scarred) 167 $0.04
-Negev | Anodized Navy (Factory New) 165 $0.94
-MP9 | Dry Season (Battle-Scarred) 163 $0.05
-AWP | BOOM (Minimal Wear) 162 $5.98
-MAC-10 | Graven (Field-Tested) 162 $0.57
-XM1014 | Fallout Warning (Battle-Scarred) 161 $0.17
-Galil AR | Winter Forest (Minimal Wear) 157 $0.20
-M4A4 | Radiation Hazard (Field-Tested) 156 $1.05
-P250 | Hive (Factory New) 155 $0.43
-MP7 | Groundwater (Well-Worn) 155 $0.05
-Galil AR | Shattered (Minimal Wear) 154 $0.20
-M4A4 | Zirka (Minimal Wear) 152 $0.89
-M4A4 | Tornado (Well-Worn) 151 $0.11
-P250 | Facets (Field-Tested) 151 $0.13
-AK-47 | Jungle Spray (Minimal Wear) 151 $0.60
-Glock-18 | Sand Dune (Field-Tested) 150 $0.36
-M4A1-S | Bright Water (Field-Tested) 150 $1.49
-M4A4 | Jungle Tiger (Well-Worn) 150 $0.13
-XM1014 | Jungle (Well-Worn) 146 $0.05
-P250 | Gunsmoke (Minimal Wear) 144 $0.60
-P90 | Fallout Warning (Minimal Wear) 144 $0.73
-G3SG1 | Arctic Camo (Well-Worn) 144 $0.12
-PP-Bizon | Modern Hunter (Field-Tested) 142 $0.26
-MP7 | Whiteout (Field-Tested) 141 $0.25
-G3SG1 | Demeter (Well-Worn) 140 $0.13
-SCAR-20 | Palm (Well-Worn) 140 $0.20
-Sawed-Off | Orange DDPAT (Battle-Scarred) 138 $0.59
-Galil AR | Shattered (Battle-Scarred) 137 $0.15
-MP9 | Dry Season (Minimal Wear) 136 $0.07
-G3SG1 | Demeter (Battle-Scarred) 136 $0.12
-StatTrak™ SG 553 | Ultraviolet (Well-Worn) 136 $0.49
-P250 | Modern Hunter (Field-Tested) 135 $0.30
-AWP | Lightning Strike (Factory New) 132 $8.10
-SG 553 | Wave Spray (Well-Worn) 132 $0.13
-AUG | Anodized Navy (Factory New) 132 $0.57
-Negev | Palm (Field-Tested) 132 $0.24
-Nova | Blaze Orange (Field-Tested) 131 $0.19
-FAMAS | Hexane (Factory New) 130 $0.28
-eSports 2013 Key 130 $2.71
-Five-SeveN | Candy Apple (Field-Tested) 129 $0.35
-AK-47 | Predator (Minimal Wear) 129 $0.92
-M249 | Jungle DDPAT (Well-Worn) 127 $0.05
-SSG 08 | Mayan Dreams (Field-Tested) 126 $0.14
-M4A4 | Desert Storm (Well-Worn) 126 $0.20
-XM1014 | Fallout Warning (Minimal Wear) 125 $0.28
-XM1014 | Fallout Warning (Minimal Wear) 125 $0.28
-P2000 | Grassland Leaves (Battle-Scarred) 124 $0.15
-AUG | Copperhead (Field-Tested) 122 $0.76
-UMP-45 | Fallout Warning (Minimal Wear) 122 $0.37
-Nova | Tempest (Field-Tested) 121 $0.13
-Galil AR | Winter Forest (Well-Worn) 120 $0.12
-StatTrak™ AUG | Wings (Minimal Wear) 119 $0.99
-AWP | Snake Camo (Field-Tested) 117 $3.14
-Dual Berettas | Black Limba (Well-Worn) 117 $0.13
-Nova | Modern Hunter (Field-Tested) 117 $0.17
-StatTrak™ Nova | Tempest (Minimal Wear) 116 $1.92
-XM1014 | Blaze Orange (Field-Tested) 116 $0.32
-Galil AR | Orange DDPAT (Minimal Wear) 116 $0.69
-MP9 | Hypnotic (Factory New) 115 $0.60
-StatTrak™ FAMAS | Doomkitty (Field-Tested) 114 $0.80
-P90 | Glacier Mesh (Field-Tested) 111 $1.23
-StatTrak™ Dual Berettas | Black Limba (Field-Tested) 110 $1.21
-AK-47 | Jungle Spray (Well-Worn) 109 $0.55
-P2000 | Grassland Leaves (Well-Worn) 108 $0.13
-P250 | Gunsmoke (Well-Worn) 107 $0.16
-StatTrak™ SG 553 | Wave Spray (Field-Tested) 107 $0.60
-Name Tag 106 $2.10
-Galil AR | Orange DDPAT (Battle-Scarred) 106 $0.57
-Tec-9 | Brass (Field-Tested) 106 $0.18
-P2000 | Grassland Leaves (Minimal Wear) 103 $0.27
-StatTrak™ G3SG1 | Demeter (Field-Tested) 99 $1.28
-AWP | BOOM (Field-Tested) 99 $5.99
-StatTrak™ Sawed-Off | Orange DDPAT (Field-Tested) 99 $1.99
-AK-47 | Predator (Well-Worn) 97 $0.78
-P90 | Emerald Dragon (Field-Tested) 95 $2.41
-Tec-9 | Brass (Battle-Scarred) 93 $0.16
-Sawed-Off | Orange DDPAT (Well-Worn) 93 $0.62
-StatTrak™ M4A4 | Faded Zebra (Minimal Wear) 93 $2.79
-Tec-9 | Brass (Well-Worn) 92 $0.17
-Tec-9 | Nuclear Threat (Field-Tested) 91 $0.97
-MP9 | Dry Season (Well-Worn) 89 $0.05
-P90 | Fallout Warning (Well-Worn) 88 $0.47
-StatTrak™ UMP-45 | Bone Pile (Field-Tested) 87 $1.28
-AK-47 | Case Hardened (Field-Tested) 87 $4.63
-Galil AR | Shattered (Well-Worn) 86 $0.10
-UMP-45 | Fallout Warning (Well-Worn) 86 $0.18
-MP9 | Bulldozer (Field-Tested) 86 $0.92
-M4A1-S | Blood Tiger (Field-Tested) 86 $1.01
-StatTrak™ M4A4 | Faded Zebra (Battle-Scarred) 84 $2.09
-P250 | Splash (Field-Tested) 84 $0.63
-USP-S | Overgrowth (Battle-Scarred) 80 $0.80
-P2000 | Scorpion (Factory New) 79 $5.11
-Nova | Graphite (Factory New) 79 $0.50
-PP-Bizon | Carbon Fiber (Minimal Wear) 78 $0.63
-P250 | Hive (Field-Tested) 78 $0.37
-Five-SeveN | Anodized Gunmetal (Minimal Wear) 77 $0.13
-StatTrak™ Galil AR | Shattered (Field-Tested) 76 $1.84
-Desert Eagle | Blaze (Factory New) 74 $9.17
-P2000 | Ocean Foam (Factory New) 73 $2.87
-Dual Berettas | Demolition (Field-Tested) 72 $1.96
-SCAR-20 | Crimson Web (Minimal Wear) 72 $0.55
-StatTrak™ UMP-45 | Bone Pile (Minimal Wear) 72 $1.52
-AK-47 | Black Laminate (Field-Tested) 71 $7.78
-Sawed-Off | Copper (Field-Tested) 70 $0.62
-SCAR-20 | Crimson Web (Battle-Scarred) 70 $0.18
-Galil AR | Orange DDPAT (Well-Worn) 70 $0.60
-Five-SeveN | Jungle (Factory New) 68 $0.39
-AK-47 | Case Hardened (Well-Worn) 68 $4.09
-StatTrak™ MAG-7 | Memento (Field-Tested) 66 $0.51
-StatTrak™ M4A4 | Faded Zebra (Well-Worn) 64 $2.00
-Tec-9 | Brass (Minimal Wear) 63 $0.30
-XM1014 | Fallout Warning (Well-Worn) 63 $0.17
-P90 | Death by Kitty (Field-Tested) 63 $6.30
-AK-47 | Case Hardened (Minimal Wear) 62 $5.25
-USP-S | Overgrowth (Minimal Wear) 62 $1.50
-AK-47 | Case Hardened (Battle-Scarred) 62 $3.69
-StatTrak™ MAC-10 | Graven (Field-Tested) 60 $2.77
-MAG-7 | Sand Dune (Factory New) 60 $0.15
-P250 | Facets (Well-Worn) 59 $0.20
-SSG 08 | Mayan Dreams (Battle-Scarred) 58 $0.17
-Dual Berettas | Demolition (Well-Worn) 58 $1.49
-SCAR-20 | Emerald (Factory New) 58 $3.99
-MAC-10 | Graven (Minimal Wear) 58 $1.01
-StatTrak™ Galil AR | Orange DDPAT (Field-Tested) 57 $2.27
-MP7 | Whiteout (Well-Worn) 57 $0.28
-SG 553 | Tornado (Factory New) 57 $0.23
-MAG-7 | Hazard (Field-Tested) 56 $0.34
-AWP | Graphite (Factory New) 55 $10.81
-Sawed-Off | Copper (Minimal Wear) 55 $0.74
-Negev | Palm (Minimal Wear) 54 $0.49
-Dual Berettas | Hemoglobin (Minimal Wear) 54 $0.95
-M4A4 | Modern Hunter (Field-Tested) 54 $0.96
-XM1014 | Urban Perforated (Factory New) 54 $0.32
-MAC-10 | Tornado (Factory New) 54 $0.15
-MAG-7 | Irradiated Alert (Factory New) 53 $0.28
-Nova | Modern Hunter (Minimal Wear) 53 $0.23
-PP-Bizon | Forest Leaves (Factory New) 53 $0.23
-P90 | Death by Kitty (Minimal Wear) 52 $7.25
-P90 | Cold Blooded (Factory New) 52 $2.87
-Dual Berettas | Hemoglobin (Factory New) 52 $1.00
-StatTrak™ SG 553 | Wave Spray (Well-Worn) 51 $0.86
-SSG 08 | Mayan Dreams (Well-Worn) 51 $0.25
-P250 | Nuclear Threat (Field-Tested) 51 $3.76
-StatTrak™ SG 553 | Wave Spray (Battle-Scarred) 50 $0.82
-XM1014 | Blaze Orange (Battle-Scarred) 50 $0.31
-FAMAS | Contrast Spray (Factory New) 50 $0.38
-MAC-10 | Graven (Battle-Scarred) 49 $0.83
-Nova | Walnut (Factory New) 49 $0.29
-StatTrak™ Dual Berettas | Black Limba (Minimal Wear) 49 $2.27
-M4A4 | Faded Zebra (Factory New) 49 $0.85
-MP7 | Whiteout (Battle-Scarred) 49 $0.30
-Nova | Forest Leaves (Factory New) 49 $0.18
-SCAR-20 | Crimson Web (Well-Worn) 48 $0.21
-P90 | Glacier Mesh (Minimal Wear) 47 $1.99
-XM1014 | Grassland (Factory New) 47 $0.20
-Glock-18 | Fade (Factory New) 46 $12.33
-UMP-45 | Caramel (Factory New) 45 $0.55
-StatTrak™ Glock-18 | Dragon Tattoo (Factory New) 45 $11.47
-Glock-18 | Sand Dune (Well-Worn) 45 $0.46
-Sawed-Off | Mosaico (Well-Worn) 45 $0.15
-P250 | Facets (Battle-Scarred) 45 $0.12
-StatTrak™ P250 | Splash (Minimal Wear) 45 $7.98
-Sawed-Off | Mosaico (Battle-Scarred) 44 $0.11
-M4A4 | Radiation Hazard (Minimal Wear) 44 $6.00
-AK-47 | Red Laminate (Battle-Scarred) 44 $4.20
-Glock-18 | Dragon Tattoo (Minimal Wear) 44 $1.24
-M4A4 | Radiation Hazard (Battle-Scarred) 44 $0.98
-AK-47 | Black Laminate (Minimal Wear) 44 $8.05
-Glock-18 | Brass (Field-Tested) 43 $2.53
-AK-47 | Red Laminate (Minimal Wear) 43 $5.26
-Five-SeveN | Case Hardened (Field-Tested) 43 $0.77
-Nova | Tempest (Factory New) 43 $0.62
-PP-Bizon | Rust Coat (Field-Tested) 43 $0.42
-Tec-9 | Tornado (Well-Worn) 43 $0.07
-Sawed-Off | Mosaico (Minimal Wear) 42 $0.20
-P250 | Modern Hunter (Battle-Scarred) 42 $0.34
-Negev | Palm (Battle-Scarred) 42 $0.23
-USP-S | Overgrowth (Well-Worn) 42 $1.23
-Sawed-Off | Irradiated Alert (Factory New) 42 $0.23
-MP7 | Whiteout (Minimal Wear) 41 $1.39
-P250 | Facets (Minimal Wear) 41 $0.61
-USP-S | Serum (Factory New) 41 $5.09
-Sawed-Off | Copper (Well-Worn) 41 $0.80
-Glock-18 | Sand Dune (Battle-Scarred) 41 $0.31
-XM1014 | Blaze Orange (Minimal Wear) 40 $1.09
-StatTrak™ FAMAS | Hexane (Field-Tested) 40 $2.38
-MAC-10 | Urban DDPAT (Factory New) 40 $0.42
-FAMAS | Spitfire (Field-Tested) 40 $2.22
-SCAR-20 | Splash Jam (Battle-Scarred) 39 $1.15
-Negev | Palm (Well-Worn) 38 $0.27
-Five-SeveN | Case Hardened (Battle-Scarred) 38 $0.82
-Desert Eagle | Hypnotic (Minimal Wear) 38 $2.82
-StatTrak™ M4A1-S | Dark Water (Minimal Wear) 38 $9.74
-Glock-18 | Sand Dune (Minimal Wear) 38 $0.69
-StatTrak™ SG 553 | Wave Spray (Minimal Wear) 37 $1.23
-StatTrak™ G3SG1 | Demeter (Battle-Scarred) 37 $1.30
-Nova | Blaze Orange (Minimal Wear) 37 $0.94
-StatTrak™ SG 553 | Wave Spray (Minimal Wear) 37 $1.23
-StatTrak™ Galil AR | Shattered (Battle-Scarred) 36 $1.70
-P90 | Glacier Mesh (Well-Worn) 36 $1.35
-Glock-18 | Brass (Well-Worn) 36 $2.68
-SCAR-20 | Splash Jam (Minimal Wear) 36 $2.14
-StatTrak™ Dual Berettas | Black Limba (Battle-Scarred) 36 $1.24
-StatTrak™ SCAR-20 | Crimson Web (Field-Tested) 36 $2.64
-StatTrak™ G3SG1 | Demeter (Minimal Wear) 36 $2.54
-StatTrak™ Galil AR | Orange DDPAT (Well-Worn) 36 $2.57
-StatTrak™ M4A1-S | Blood Tiger (Factory New) 35 $15.00
-StatTrak™ Sawed-Off | Orange DDPAT (Battle-Scarred) 35 $1.58
-Five-SeveN | Case Hardened (Well-Worn) 35 $0.75
-P250 | Modern Hunter (Well-Worn) 35 $0.43
-StatTrak™ Tec-9 | Blue Titanium (Factory New) 35 $1.99
-StatTrak™ USP-S | Dark Water (Minimal Wear) 34 $8.45
-AUG | Copperhead (Minimal Wear) 34 $0.80
-StatTrak™ Dual Berettas | Black Limba (Well-Worn) 34 $1.20
-XM1014 | Jungle (Factory New) 34 $0.59
-Nova | Modern Hunter (Well-Worn) 34 $0.23
-PP-Bizon | Modern Hunter (Battle-Scarred) 33 $0.20
-SSG 08 | Mayan Dreams (Minimal Wear) 33 $0.85
-PP-Bizon | Irradiated Alert (Factory New) 33 $0.47
-M4A4 | Radiation Hazard (Well-Worn) 32 $1.97
-StatTrak™ M4A1-S | Dark Water (Field-Tested) 32 $9.57
-Five-SeveN | Case Hardened (Minimal Wear) 32 $1.47
-Tec-9 | Nuclear Threat (Battle-Scarred) 31 $1.15
-UMP-45 | Bone Pile (Factory New) 31 $0.41
-StatTrak™ USP-S | Dark Water (Field-Tested) 31 $6.67
-P90 | Glacier Mesh (Battle-Scarred) 30 $0.92
-Tec-9 | Ossified (Minimal Wear) 30 $0.51
-P90 | Emerald Dragon (Minimal Wear) 30 $3.50
-MAC-10 | Graven (Well-Worn) 30 $0.74
-Tec-9 | Nuclear Threat (Minimal Wear) 30 $1.95
-P250 | Splash (Factory New) 30 $1.68
-StatTrak™ Desert Eagle | Hypnotic (Factory New) 30 $14.80
-P250 | Nuclear Threat (Battle-Scarred) 30 $2.56
-PP-Bizon | Rust Coat (Well-Worn) 29 $0.46
-AWP | Snake Camo (Minimal Wear) 29 $5.63
-Desert Eagle | Golden Koi (Factory New) 29 $7.24
-Nova | Modern Hunter (Battle-Scarred) 29 $0.21
-PP-Bizon | Modern Hunter (Minimal Wear) 29 $0.52
-MAG-7 | Hazard (Battle-Scarred) 29 $0.32
-StatTrak™ M4A4 | Zirka (Field-Tested) 28 $8.62
-AK-47 | Black Laminate (Battle-Scarred) 28 $8.05
-USP-S | Serum (Minimal Wear) 28 $3.50
-StatTrak™ Galil AR | Orange DDPAT (Battle-Scarred) 28 $2.00
-StatTrak™ Nova | Tempest (Field-Tested) 27 $2.14
-MAG-7 | Hazard (Well-Worn) 27 $0.39
-PP-Bizon | Modern Hunter (Well-Worn) 27 $0.27
-Dual Berettas | Anodized Navy (Minimal Wear) 27 $0.94
-StatTrak™ Sawed-Off | Orange DDPAT (Minimal Wear) 27 $3.31
-AWP | Snake Camo (Battle-Scarred) 28 $3.53
-StatTrak™ Galil AR | Orange DDPAT (Minimal Wear) 26 $4.37
-StatTrak™ USP-S | Overgrowth (Field-Tested) 26 $8.01
-MP9 | Bulldozer (Minimal Wear) 26 $1.76
-PP-Bizon | Rust Coat (Battle-Scarred) 26 $0.69
-SG 553 | Ultraviolet (Factory New) 26 $0.55
-M4A4 | Jungle Tiger (Factory New) 26 $2.46
-MAG-7 | Hazard (Minimal Wear) 26 $0.98
-AUG | Anodized Navy (Minimal Wear) 26 $1.01
-PP-Bizon | Rust Coat (Minimal Wear) 25 $0.69
-AK-47 | Red Laminate (Well-Worn) 25 $4.00
-MP9 | Bulldozer (Battle-Scarred) 25 $1.00
-SG 553 | Wave Spray (Factory New) 25 $1.12
-Nova | Blaze Orange (Well-Worn) 25 $0.42
-Dual Berettas | Demolition (Battle-Scarred) 25 $1.70
-P250 | Modern Hunter (Minimal Wear) 25 $0.85
-StatTrak™ Galil AR | Shattered (Well-Worn) 24 $1.75
-P90 | Emerald Dragon (Well-Worn) 24 $2.73
-StatTrak™ AWP | BOOM (Minimal Wear) 24 $37.57
-Glock-18 | Brass (Battle-Scarred) 24 $2.30
-SCAR-20 | Palm (Factory New) 24 $2.00
-StatTrak™ M4A4 | Zirka (Minimal Wear) 23 $11.99
-StatTrak™ Sawed-Off | Orange DDPAT (Well-Worn) 23 $2.09
-StatTrak™ G3SG1 | Demeter (Well-Worn) 23 $1.50
-StatTrak™ FAMAS | Hexane (Factory New) 22 $3.80
-Dual Berettas | Hemoglobin (Field-Tested) 22 $0.75
-AK-47 | Black Laminate (Well-Worn) 22 $7.72
-XM1014 | Blaze Orange (Well-Worn) 22 $0.41
-M249 | Jungle DDPAT (Factory New) 22 $0.92
-M4A4 | Modern Hunter (Battle-Scarred) 22 $1.20
-StatTrak™ Galil AR | Shattered (Minimal Wear) 22 $3.08
-StatTrak™ M4A1-S | Blood Tiger (Minimal Wear) 22 $13.73
-Sawed-Off | Copper (Battle-Scarred) 22 $0.76
-AWP | Snake Camo (Well-Worn) 21 $3.45
-StatTrak™ FAMAS | Hexane (Minimal Wear) 21 $2.68
-FAMAS | Hexane (Well-Worn) 21 $0.27
-StatTrak™ Nova | Graphite (Factory New) 21 $5.99
-G3SG1 | Demeter (Factory New) 21 $1.78
-Nova | Graphite (Minimal Wear) 21 $0.73
-Tec-9 | Brass (Factory New) 20 $1.38
-StatTrak™ AK-47 | Red Laminate (Field-Tested) 20 $47.00
-MP7 | Groundwater (Factory New) 20 $1.00
-Glock-18 | Brass (Minimal Wear) 20 $4.26
-P250 | Nuclear Threat (Minimal Wear) 19 $11.27
-MP9 | Dry Season (Factory New) 19 $0.85
-AUG | Hot Rod (Minimal Wear) 19 $1.69
-FAMAS | Spitfire (Minimal Wear) 19 $7.10
-StatTrak™ P250 | Hive (Minimal Wear) 19 $7.10
-AK-47 | Fire Serpent (Field-Tested) 19 $24.56
-Tec-9 | Nuclear Threat (Well-Worn) 19 $1.43
-Nova | Blaze Orange (Battle-Scarred) 19 $0.25
-StatTrak™ MAC-10 | Graven (Battle-Scarred) 19 $2.50
-StatTrak™ P250 | Hive (Factory New) 18 $9.31
-P2000 | Silver (Minimal Wear) 18 $1.65
-MP9 | Hypnotic (Minimal Wear) 18 $0.93
-MP9 | Bulldozer (Well-Worn) 18 $0.92
-StatTrak™ SCAR-20 | Crimson Web (Minimal Wear) 18 $6.00
-AK-47 | Jungle Spray (Factory New) 17 $4.03
-Galil AR | Shattered (Factory New) 17 $1.62
-SSG 08 | Lichen Dashed (Factory New) 17 $1.32
-Dual Berettas | Black Limba (Factory New) 17 $1.46
-SSG 08 | Blood in the Water (Minimal Wear) 16 $9.40
-Negev | Anodized Navy (Minimal Wear) 16 $1.50
-Galil AR | Winter Forest (Factory New) 16 $2.30
-M4A4 | Modern Hunter (Well-Worn) 16 $1.15
-StatTrak™ P90 | Emerald Dragon (Minimal Wear) 16 $28.00
-StatTrak™ M4A1-S | Bright Water (Field-Tested) 16 $14.76
-P250 | Gunsmoke (Factory New) 16 $4.50
-StatTrak™ M4A1-S | Bright Water (Minimal Wear) 16 $14.95
-StatTrak™ AWP | Lightning Strike (Factory New) 15 $47.00
-FAMAS | Spitfire (Battle-Scarred) 15 $1.54
-P250 | Nuclear Threat (Well-Worn) 15 $4.07
-StatTrak™ MP9 | Hypnotic (Factory New) 15 $4.29
-StatTrak™ MAC-10 | Graven (Well-Worn) 15 $2.50
-M249 | Blizzard Marbleized (Factory New) 15 $2.30
-StatTrak™ SG 553 | Ultraviolet (Factory New) 15 $6.16
-M4A4 | Zirka (Factory New) 15 $5.48
-Sawed-Off | Copper (Factory New) 15 $2.58
-Tec-9 | Tornado (Factory New) 14 $1.61
-StatTrak™ AWP | Graphite (Factory New) 14 $79.92
-M4A4 | Modern Hunter (Minimal Wear) 14 $4.02
-SCAR-20 | Emerald (Minimal Wear) 14 $4.94
-P2000 | Ocean Foam (Minimal Wear) 13 $3.50
-AK-47 | Fire Serpent (Minimal Wear) 13 $35.20
-StatTrak™ Dual Berettas | Hemoglobin (Minimal Wear) 13 $5.75
-AWP | Graphite (Minimal Wear) 13 $11.24
-StatTrak™ SCAR-20 | Crimson Web (Battle-Scarred) 13 $2.72
-★ Gut Knife | Fade (Factory New) 13 $132.34
-G3SG1 | Arctic Camo (Factory New) 12 $2.13
-StatTrak™ M4A4 | Faded Zebra (Factory New) 12 $17.45
-M4A4 | Zirka (Well-Worn) 12 $1.35
-Desert Eagle | Blaze (Minimal Wear) 12 $9.20
-StatTrak™ P90 | Death by Kitty (Field-Tested) 12 $34.43
-FAMAS | Spitfire (Well-Worn) 12 $3.57
-AK-47 | Case Hardened (Factory New) 12 $13.39
-P90 | Emerald Dragon (Battle-Scarred) 12 $4.48
-UMP-45 | Fallout Warning (Factory New) 11 $2.48
-SCAR-20 | Crimson Web (Factory New) 11 $3.91
-USP-S | Overgrowth (Factory New) 11 $6.03
-USP-S | Serum (Field-Tested) 11 $4.00
-Five-SeveN | Case Hardened (Factory New) 11 $5.12
-StatTrak™ MAC-10 | Graven (Minimal Wear) 11 $4.97
-Galil AR | Orange DDPAT (Factory New) 11 $3.41
-StatTrak™ Desert Eagle | Golden Koi (Factory New) 11 $53.68
-StatTrak™ SCAR-20 | Crimson Web (Well-Worn) 11 $2.70
-★ Karambit 11 $190.83
-★ Flip Knife 11 $67.05
-StatTrak™ P90 | Emerald Dragon (Field-Tested) 11 $19.55
-PP-Bizon | Rust Coat (Factory New) 11 $2.50
-StatTrak™ P2000 | Ocean Foam (Factory New) 11 $27.00
-P90 | Fallout Warning (Factory New) 11 $5.00
-Sawed-Off | Orange DDPAT (Factory New) 11 $2.68
-M4A4 | Tornado (Factory New) 11 $4.00
-StatTrak™ P250 | Splash (Field-Tested) 11 $9.67
-StatTrak™ P90 | Cold Blooded (Factory New) 11 $28.20
-AK-47 | Predator (Factory New) 11 $4.60
-Desert Eagle | Golden Koi (Minimal Wear) 10 $7.29
-★ Flip Knife | Safari Mesh (Field-Tested) 10 $65.75
-StatTrak™ SG 553 | Wave Spray (Factory New) 10 $13.00
-AWP | BOOM (Factory New) 10 $17.45
-Nova | Blaze Orange (Factory New) 10 $7.55
-AK-47 | Fire Serpent (Battle-Scarred) 10 $24.17
-StatTrak™ USP-S | Overgrowth (Well-Worn) 10 $11.62
-★ Flip Knife | Fade (Factory New) 10 $175.00
-Glock-18 | Brass (Factory New) 10 $8.93
-StatTrak™ Dual Berettas | Black Limba (Factory New) 10 $25.45
-StatTrak™ M4A1-S | Blood Tiger (Field-Tested) 10 $12.54
-Glock-18 | Fade (Minimal Wear) 10 $15.11
-★ Karambit | Night (Field-Tested) 9 $212.00
-StatTrak™ Glock-18 | Dragon Tattoo (Minimal Wear) 9 $15.98
-M4A4 | Desert Storm (Factory New) 9 $5.78
-StatTrak™ USP-S | Overgrowth (Battle-Scarred) 9 $7.88
-MAC-10 | Graven (Factory New) 9 $4.60
-StatTrak™ P90 | Death by Kitty (Minimal Wear) 9 $46.00
-★ Gut Knife | Slaughter (Minimal Wear) 9 $160.42
-★ Karambit | Stained (Field-Tested) 9 $170.00
-StatTrak™ USP-S | Overgrowth (Minimal Wear) 9 $12.97
-P2000 | Grassland Leaves (Factory New) 9 $2.44
-StatTrak™ Five-SeveN | Case Hardened (Battle-Scarred) 9 $12.77
-P90 | Cold Blooded (Minimal Wear) 9 $4.78
-★ Gut Knife | Safari Mesh (Field-Tested) 9 $63.25
-StatTrak™ P250 | Hive (Field-Tested) 9 $7.50
-★ Gut Knife 9 $74.75
-StatTrak™ FAMAS | Hexane (Well-Worn) 9 $5.17
-P250 | Modern Hunter (Factory New) 9 $9.12
-★ M9 Bayonet | Scorched (Field-Tested) 8 $95.00
-StatTrak™ USP-S | Serum (Minimal Wear) 8 $27.52
-SSG 08 | Blood in the Water (Field-Tested) 8 $9.69
-Glock-18 | Sand Dune (Factory New) 8 $5.03
-StatTrak™ Nova | Tempest (Factory New) 8 $8.48
-StatTrak™ UMP-45 | Bone Pile (Factory New) 8 $5.70
-StatTrak™ AK-47 | Case Hardened (Field-Tested) 8 $45.66
-★ Flip Knife | Scorched (Field-Tested) 8 $65.00
-StatTrak™ AWP | BOOM (Field-Tested) 8 $44.53
-AWP | Lightning Strike (Minimal Wear) 8 $9.40
-StatTrak™ Five-SeveN | Case Hardened (Field-Tested) 8 $13.89
-P90 | Emerald Dragon (Factory New) 8 $15.50
-★ Flip Knife | Urban Masked (Field-Tested) 7 $79.99
-StatTrak™ AK-47 | Red Laminate (Well-Worn) 7 $50.02
-StatTrak™ USP-S | Serum (Field-Tested) 7 $29.48
-StatTrak™ Desert Eagle | Hypnotic (Minimal Wear) 7 $17.34
-StatTrak™ M4A4 | Zirka (Well-Worn) 7 $12.65
-★ M9 Bayonet | Night (Field-Tested) 7 $107.38
-★ Bayonet | Boreal Forest (Battle-Scarred) 7 $83.92
-StatTrak™ SSG 08 | Blood in the Water (Minimal Wear) 7 $62.10
-★ Bayonet | Crimson Web (Field-Tested) 7 $191.40
-★ Gut Knife | Crimson Web (Field-Tested) 7 $123.48
-★ Flip Knife | Night (Field-Tested) 7 $89.99
-StatTrak™ AK-47 | Case Hardened (Well-Worn) 7 $40.89
-StatTrak™ AK-47 | Red Laminate (Minimal Wear) 7 $55.04
-StatTrak™ Nova | Graphite (Minimal Wear) 7 $10.47
-StatTrak™ G3SG1 | Demeter (Factory New) 7 $13.91
-★ Bayonet | Safari Mesh (Field-Tested) 7 $81.89
-StatTrak™ P250 | Splash (Factory New) 7 $18.49
-★ Bayonet | Fade (Factory New) 7 $223.82
-StatTrak™ Dual Berettas | Hemoglobin (Factory New) 6 $8.02
-P2000 | Scorpion (Minimal Wear) 6 $6.95
-★ Karambit | Scorched (Field-Tested) 6 $177.41
-StatTrak™ Five-SeveN | Case Hardened (Minimal Wear) 6 $19.00
-★ Flip Knife | Stained (Minimal Wear) 6 $80.50
-★ M9 Bayonet | Fade (Factory New) 6 $248.90
-StatTrak™ P2000 | Ocean Foam (Minimal Wear) 6 $26.24
-Negev | Palm (Factory New) 6 $5.75
-★ Flip Knife | Blue Steel (Field-Tested) 6 $87.25
-★ Gut Knife | Boreal Forest (Field-Tested) 6 $60.95
-Nova | Modern Hunter (Factory New) 6 $5.08
-AK-47 | Red Laminate (Factory New) 6 $19.73
-StatTrak™ MP9 | Hypnotic (Minimal Wear) 6 $5.48
-★ Gut Knife | Case Hardened (Well-Worn) 6 $88.59
-★ Gut Knife | Blue Steel (Field-Tested) 6 $84.57
-★ Karambit | Urban Masked (Field-Tested) 6 $159.06
-P90 | Glacier Mesh (Factory New) 6 $25.00
-StatTrak™ USP-S | Serum (Factory New) 6 $35.97
-★ Gut Knife | Urban Masked (Battle-Scarred) 6 $69.00
-★ Flip Knife | Slaughter (Minimal Wear) 6 $135.73
-StatTrak™ Dual Berettas | Hemoglobin (Field-Tested) 6 $6.14
-StatTrak™ Galil AR | Shattered (Factory New) 6 $16.10
-★ M9 Bayonet | Forest DDPAT (Field-Tested) 6 $94.99
-StatTrak™ AK-47 | Case Hardened (Battle-Scarred) 6 $40.91
-★ Bayonet | Night (Field-Tested) 5 $119.45
-AK-47 | Black Laminate (Factory New) 5 $49.69
-★ M9 Bayonet | Slaughter (Factory New) 5 $277.85
-StatTrak™ AK-47 | Case Hardened (Minimal Wear) 5 $55.57
-★ Gut Knife | Crimson Web (Battle-Scarred) 5 $92.00
-StatTrak™ Five-SeveN | Case Hardened (Well-Worn) 5 $13.25
-XM1014 | Fallout Warning (Factory New) 5 $3.07
-SSG 08 | Blood in the Water (Factory New) 5 $29.81
-★ Gut Knife | Scorched (Field-Tested) 5 $78.00
-★ Gut Knife | Blue Steel (Well-Worn) 5 $94.15
-P250 | Facets (Factory New) 5 $8.97
-★ Karambit | Boreal Forest (Field-Tested) 5 $143.75
-★ Karambit | Safari Mesh (Field-Tested) 5 $159.85
-★ Bayonet | Safari Mesh (Minimal Wear) 5 $90.85
-★ Flip Knife | Case Hardened (Field-Tested) 5 $100.00
-★ Bayonet | Case Hardened (Field-Tested) 5 $125.00
-★ Flip Knife | Case Hardened (Minimal Wear) 5 $115.00
-★ Gut Knife | Urban Masked (Field-Tested) 5 $69.47
-StatTrak™ P90 | Emerald Dragon (Battle-Scarred) 5 $23.93
-Sawed-Off | Mosaico (Factory New) 5 $3.50
-PP-Bizon | Modern Hunter (Factory New) 5 $8.46
-StatTrak™ AK-47 | Case Hardened (Factory New) 5 $130.00
-★ M9 Bayonet | Crimson Web (Field-Tested) 5 $228.45
-★ Bayonet | Stained (Well-Worn) 5 $85.16
-★ Bayonet | Slaughter (Minimal Wear) 5 $223.82
-★ Bayonet | Scorched (Field-Tested) 5 $93.96
-★ M9 Bayonet | Boreal Forest (Field-Tested) 5 $84.90
-★ Flip Knife | Slaughter (Factory New) 5 $175.00
-★ Gut Knife | Night (Field-Tested) 5 $79.35
-★ Flip Knife | Crimson Web (Field-Tested) 4 $127.51
-StatTrak™ AWP | Graphite (Minimal Wear) 4 $77.18
-★ Bayonet | Safari Mesh (Battle-Scarred) 4 $100.67
-★ M9 Bayonet 4 $97.31
-★ Flip Knife | Stained (Field-Tested) 4 $84.90
-★ Gut Knife | Boreal Forest (Battle-Scarred) 4 $73.31
-★ Bayonet 4 $90.62
-★ Gut Knife | Stained (Well-Worn) 4 $75.16
-SSG 08 | Mayan Dreams (Factory New) 4 $12.20
-★ Flip Knife | Case Hardened (Battle-Scarred) 4 $91.45
-AK-47 | Fire Serpent (Well-Worn) 4 $28.75
-★ Gut Knife | Stained (Field-Tested) 4 $80.00
-★ Karambit | Forest DDPAT (Field-Tested) 4 $155.48
-★ Flip Knife | Forest DDPAT (Field-Tested) 4 $70.06
-★ M9 Bayonet | Safari Mesh (Field-Tested) 4 $90.00
-★ Bayonet | Forest DDPAT (Field-Tested) 4 $80.50
-★ Karambit | Urban Masked (Minimal Wear) 4 $165.63
-★ Karambit | Fade (Factory New) 4 $369.99
-StatTrak™ USP-S | Overgrowth (Factory New) 4 $61.00
-AWP | Snake Camo (Factory New) 4 $22.86
-★ Bayonet | Boreal Forest (Field-Tested) 4 $96.64
-★ Flip Knife | Crimson Web (Battle-Scarred) 4 $166.75
-★ Gut Knife | Case Hardened (Minimal Wear) 4 $97.00
-★ Bayonet | Case Hardened (Well-Worn) 4 $119.99
-★ Karambit | Case Hardened (Minimal Wear) 4 $264.47
-★ M9 Bayonet | Case Hardened (Minimal Wear) 3 $201.33
-★ Bayonet | Case Hardened (Minimal Wear) 3 $154.36
-★ Karambit | Blue Steel (Battle-Scarred) 3 $225.02
-★ Flip Knife | Blue Steel (Minimal Wear) 3 $93.96
-★ Bayonet | Case Hardened (Battle-Scarred) 3 $104.94
-★ Karambit | Safari Mesh (Battle-Scarred) 3 $138.00
-★ Flip Knife | Case Hardened (Well-Worn) 3 $100.00
-StatTrak™ P90 | Cold Blooded (Minimal Wear) 3 $33.00
-★ Karambit | Blue Steel (Field-Tested) 3 $190.85
-★ Flip Knife | Boreal Forest (Battle-Scarred) 3 $69.00
-SCAR-20 | Splash Jam (Factory New) 3 $54.76
-StatTrak™ Desert Eagle | Golden Koi (Minimal Wear) 3 $58.97
-★ M9 Bayonet | Blue Steel (Battle-Scarred) 3 $201.33
-★ Gut Knife | Slaughter (Factory New) 3 $180.00
-★ Bayonet | Stained (Field-Tested) 3 $108.71
-★ M9 Bayonet | Blue Steel (Minimal Wear) 3 $115.00
-★ M9 Bayonet | Night (Battle-Scarred) 3 $105.50
-★ Bayonet | Stained (Battle-Scarred) 3 $85.91
-★ Bayonet | Blue Steel (Field-Tested) 3 $115.76
-★ Bayonet | Forest DDPAT (Minimal Wear) 3 $98.99
-★ Flip Knife | Night (Well-Worn) 3 $131.21
-★ Flip Knife | Safari Mesh (Battle-Scarred) 3 $66.99
-★ Karambit | Case Hardened (Battle-Scarred) 3 $281.87
-StatTrak™ P90 | Emerald Dragon (Well-Worn) 3 $20.14
-★ Gut Knife | Forest DDPAT (Minimal Wear) 3 $80.50
-★ M9 Bayonet | Urban Masked (Field-Tested) 3 $85.00
-★ M9 Bayonet | Stained (Well-Worn) 3 $98.41
-★ Gut Knife | Forest DDPAT (Field-Tested) 3 $69.00
-★ M9 Bayonet | Stained (Field-Tested) 3 $100.00
-★ Bayonet | Slaughter (Factory New) 3 $278.49
-★ Bayonet | Scorched (Minimal Wear) 3 $115.59
-★ Gut Knife | Boreal Forest (Minimal Wear) 3 $74.75
-★ Karambit | Case Hardened (Well-Worn) 3 $273.58
-★ M9 Bayonet | Slaughter (Minimal Wear) 3 $254.69
-★ M9 Bayonet | Boreal Forest (Well-Worn) 3 $152.50
-★ Karambit | Crimson Web (Field-Tested) 3 $300.00
-StatTrak™ Sawed-Off | Orange DDPAT (Factory New) 3 $28.94
-StatTrak™ SCAR-20 | Crimson Web (Factory New) 3 $43.21
-★ Karambit | Urban Masked (Battle-Scarred) 3 $185.23
-StatTrak™ M4A4 | Zirka (Factory New) 3 $60.00
-★ Flip Knife | Urban Masked (Minimal Wear) 3 $150.21
-★ StatTrak™ Gut Knife | Boreal Forest (Field-Tested) 3 $171.82
-StatTrak™ AK-47 | Fire Serpent (Field-Tested) 3 $126.18
-★ Bayonet | Urban Masked (Field-Tested) 3 $88.98
-★ M9 Bayonet | Blue Steel (Field-Tested) 3 $170.00
-★ Gut Knife | Case Hardened (Field-Tested) 3 $95.01
-MP7 | Whiteout (Factory New) 3 $14.91
-★ M9 Bayonet | Boreal Forest (Minimal Wear) 3 $96.94
-★ Gut Knife | Case Hardened (Battle-Scarred) 3 $98.00
-★ StatTrak™ Bayonet | Forest DDPAT (Field-Tested) 3 $200.67
-StatTrak™ AK-47 | Red Laminate (Battle-Scarred) 3 $48.33
-★ Flip Knife | Urban Masked (Battle-Scarred) 2 $65.00
-StatTrak™ AK-47 | Fire Serpent (Minimal Wear) 2 $213.02
-★ Flip Knife | Night (Battle-Scarred) 2 $87.48
-★ Flip Knife | Stained (Well-Worn) 2 $75.16
-★ Flip Knife | Stained (Battle-Scarred) 2 $73.84
-★ Gut Knife | Crimson Web (Minimal Wear) 2 $168.62
-★ M9 Bayonet | Night (Minimal Wear) 2 $171.18
-★ Flip Knife | Slaughter (Field-Tested) 2 $178.49
-★ Flip Knife | Scorched (Minimal Wear) 2 $98.00
-★ Flip Knife | Safari Mesh (Minimal Wear) 2 $80.50
-★ M9 Bayonet | Urban Masked (Minimal Wear) 2 $135.50
-★ Gut Knife | Night (Battle-Scarred) 2 $79.20
-★ StatTrak™ Bayonet | Boreal Forest (Field-Tested) 2 $213.90
-★ StatTrak™ Bayonet | Stained (Battle-Scarred) 2 $241.50
-★ Gut Knife | Night (Well-Worn) 2 $75.00
-★ Bayonet | Safari Mesh (Well-Worn) 2 $79.54
-★ Gut Knife | Safari Mesh (Minimal Wear) 2 $99.33
-★ Flip Knife | Forest DDPAT (Well-Worn) 2 $95.45
-★ Flip Knife | Forest DDPAT (Minimal Wear) 2 $118.13
-★ Gut Knife | Scorched (Minimal Wear) 2 $109.25
-★ StatTrak™ Bayonet | Stained (Field-Tested) 2 $350.75
-★ StatTrak™ Flip Knife | Blue Steel (Well-Worn) 2 $207.00
-★ StatTrak™ Flip Knife | Boreal Forest (Field-Tested) 2 $172.50
-★ StatTrak™ Gut Knife | Safari Mesh (Field-Tested) 2 $200.67
-★ Gut Knife | Stained (Minimal Wear) 2 $80.27
-★ Karambit | Slaughter (Minimal Wear) 2 $368.00
-★ Flip Knife | Boreal Forest (Field-Tested) 2 $74.99
-★ StatTrak™ Flip Knife | Case Hardened (Minimal Wear) 2 $293.25
-★ Gut Knife | Urban Masked (Minimal Wear) 2 $92.61
-★ Gut Knife | Urban Masked (Well-Worn) 2 $98.82
-★ Flip Knife | Blue Steel (Well-Worn) 2 $92.61
-★ Gut Knife | Blue Steel (Minimal Wear) 2 $117.30
-★ Karambit | Blue Steel (Factory New) 2 $365.82
-StatTrak™ Galil AR | Orange DDPAT (Factory New) 2 $45.62
-★ Karambit | Blue Steel (Minimal Wear) 2 $219.99
-★ Karambit | Blue Steel (Well-Worn) 2 $214.77
-★ StatTrak™ Flip Knife | Forest DDPAT (Well-Worn) 2 $268.45
-★ Bayonet | Urban Masked (Battle-Scarred) 2 $97.17
-★ Bayonet | Stained (Minimal Wear) 2 $123.48
-★ M9 Bayonet | Case Hardened (Field-Tested) 2 $179.88
-★ Bayonet | Slaughter (Field-Tested) 2 $200.00
-★ M9 Bayonet | Case Hardened (Battle-Scarred) 2 $167.70
-★ Karambit | Case Hardened (Field-Tested) 2 $255.02
-★ StatTrak™ Gut Knife | Blue Steel (Well-Worn) 2 $248.33
-★ Bayonet | Scorched (Factory New) 2 $163.85
-★ Bayonet | Scorched (Battle-Scarred) 2 $98.90
-★ Karambit | Stained (Minimal Wear) 2 $207.00
-★ Bayonet | Night (Minimal Wear) 2 $181.19
-★ StatTrak™ Gut Knife | Forest DDPAT (Field-Tested) 2 $179.46
-★ Karambit | Forest DDPAT (Battle-Scarred) 2 $151.99
-★ Bayonet | Forest DDPAT (Well-Worn) 2 $131.21
-★ Bayonet | Forest DDPAT (Battle-Scarred) 2 $118.13
-★ Karambit | Night (Battle-Scarred) 2 $213.02
-★ Bayonet | Crimson Web (Well-Worn) 2 $168.97
-★ Bayonet | Crimson Web (Minimal Wear) 2 $334.01
-★ StatTrak™ Gut Knife | Scorched (Minimal Wear) 2 $169.85
-★ Bayonet | Boreal Forest (Minimal Wear) 2 $108.04
-StatTrak™ P90 | Emerald Dragon (Factory New) 2 $249.98
-★ StatTrak™ Karambit | Forest DDPAT (Field-Tested) 2 $328.85
-★ StatTrak™ Karambit | Scorched (Field-Tested) 2 $365.10
-StatTrak™ SSG 08 | Blood in the Water (Field-Tested) 2 $62.10
-★ StatTrak™ M9 Bayonet | Forest DDPAT (Field-Tested) 2 $274.35
-★ M9 Bayonet | Stained (Battle-Scarred) 2 $99.99
-★ M9 Bayonet | Safari Mesh (Battle-Scarred) 2 $110.00
-★ Karambit | Stained (Battle-Scarred) 2 $201.31
-★ Karambit | Stained (Factory New) 2 $248.33
-★ M9 Bayonet | Crimson Web (Battle-Scarred) 2 $167.00
-★ Gut Knife | Night (Minimal Wear) 2 $118.81
-★ StatTrak™ Flip Knife | Crimson Web (Field-Tested) 2 $300.00
-★ Bayonet | Urban Masked (Well-Worn) 2 $123.48
-★ StatTrak™ M9 Bayonet | Urban Masked (Field-Tested) 2 $228.19
-★ Bayonet | Urban Masked (Minimal Wear) 2 $124.68
-★ Karambit | Urban Masked (Well-Worn) 1 $223.82
-★ Karambit | Scorched (Minimal Wear) 1 $200.67
-★ Karambit | Safari Mesh (Well-Worn) 1 $140.94
-★ M9 Bayonet | Blue Steel (Factory New) 1 $330.00
-★ Karambit | Safari Mesh (Minimal Wear) 1 $178.25
-★ StatTrak™ M9 Bayonet | Urban Masked (Battle-Scarred) 1 $281.87
-★ M9 Bayonet | Blue Steel (Well-Worn) 1 $161.00
-★ M9 Bayonet | Boreal Forest (Battle-Scarred) 1 $123.48
-★ Karambit | Forest DDPAT (Minimal Wear) 1 $219.49
-★ Karambit | Crimson Web (Well-Worn) 1 $308.72
-★ Karambit | Crimson Web (Battle-Scarred) 1 $287.50
-★ Karambit | Case Hardened (Factory New) 1 $385.89
-★ M9 Bayonet | Case Hardened (Factory New) 1 $282.21
-★ Karambit | Boreal Forest (Well-Worn) 1 $138.27
-★ Karambit | Boreal Forest (Minimal Wear) 1 $299.00
-★ M9 Bayonet | Case Hardened (Well-Worn) 1 $154.35
-★ Flip Knife | Boreal Forest (Minimal Wear) 1 $100.33
-★ Karambit | Boreal Forest (Battle-Scarred) 1 $158.35
-★ M9 Bayonet | Crimson Web (Minimal Wear) 1 $399.79
-★ M9 Bayonet | Crimson Web (Well-Worn) 1 $295.29
-★ Karambit | Slaughter (Field-Tested) 1 $327.75
-★ M9 Bayonet | Forest DDPAT (Battle-Scarred) 1 $150.00
-★ Gut Knife | Slaughter (Field-Tested) 1 $134.98
-★ M9 Bayonet | Forest DDPAT (Well-Worn) 1 $107.41
-★ Gut Knife | Scorched (Battle-Scarred) 1 $138.00
-★ Gut Knife | Forest DDPAT (Well-Worn) 1 $101.86
-★ Gut Knife | Crimson Web (Well-Worn) 1 $120.81
-StatTrak™ AK-47 | Fire Serpent (Battle-Scarred) 1 $92.61
-★ Gut Knife | Blue Steel (Battle-Scarred) 1 $106.95
-★ M9 Bayonet | Safari Mesh (Well-Worn) 1 $114.97
-★ M9 Bayonet | Scorched (Battle-Scarred) 1 $117.18
-★ Flip Knife | Urban Masked (Well-Worn) 1 $73.84
-★ M9 Bayonet | Scorched (Minimal Wear) 1 $115.00
-★ M9 Bayonet | Scorched (Well-Worn) 1 $127.51
-★ Flip Knife | Urban Masked (Factory New) 1 $134.24
-★ M9 Bayonet | Slaughter (Field-Tested) 1 $212.49
-★ Flip Knife | Stained (Factory New) 1 $138.00
-StatTrak™ AK-47 | Red Laminate (Factory New) 1 $379.50
-★ M9 Bayonet | Stained (Factory New) 1 $194.61
-★ Flip Knife | Scorched (Well-Worn) 1 $100.67
-★ M9 Bayonet | Stained (Minimal Wear) 1 $115.42
-StatTrak™ AWP | BOOM (Factory New) 1 $147.38
-★ M9 Bayonet | Urban Masked (Battle-Scarred) 1 $92.61
-★ Flip Knife | Scorched (Battle-Scarred) 1 $154.36
-★ Flip Knife | Safari Mesh (Factory New) 1 $138.00
-★ StatTrak™ Bayonet | Blue Steel (Field-Tested) 1 $322.00
-★ Flip Knife | Night (Minimal Wear) 1 $132.88
-★ StatTrak™ Bayonet | Case Hardened (Battle-Scarred) 1 $216.10
-★ StatTrak™ Bayonet | Forest DDPAT (Battle-Scarred) 1 $170.00
-★ Flip Knife | Crimson Web (Minimal Wear) 1 $345.00
-★ StatTrak™ Bayonet | Forest DDPAT (Minimal Wear) 1 $274.35
-★ StatTrak™ Bayonet | Safari Mesh (Field-Tested) 1 $185.23
-StatTrak™ AWP | Lightning Strike (Minimal Wear) 1 $54.87
-★ Flip Knife | Forest DDPAT (Battle-Scarred) 1 $125.00
-★ StatTrak™ Bayonet | Urban Masked (Well-Worn) 1 $199.12
-★ StatTrak™ Flip Knife 1 $223.82
-★ StatTrak™ Flip Knife | Blue Steel (Field-Tested) 1 $308.72
-★ StatTrak™ Flip Knife | Blue Steel (Minimal Wear) 1 $239.98
-★ Flip Knife | Fade (Minimal Wear) 1 $180.00
-★ StatTrak™ Flip Knife | Boreal Forest (Battle-Scarred) 1 $198.65
-★ Flip Knife | Crimson Web (Well-Worn) 1 $174.50
-★ StatTrak™ Flip Knife | Case Hardened (Field-Tested) 1 $216.10
-★ Flip Knife | Boreal Forest (Factory New) 1 $165.00
-★ StatTrak™ Flip Knife | Case Hardened (Well-Worn) 1 $290.00
-★ Karambit | Stained (Well-Worn) 1 $287.50
-★ Karambit | Scorched (Well-Worn) 1 $268.58
-★ StatTrak™ Flip Knife | Night (Well-Worn) 1 $200.67
-★ StatTrak™ Flip Knife | Safari Mesh (Battle-Scarred) 1 $147.67
-★ StatTrak™ Flip Knife | Urban Masked (Field-Tested) 1 $151.80
-★ StatTrak™ Flip Knife | Urban Masked (Minimal Wear) 1 $195.50
-★ StatTrak™ Gut Knife | Blue Steel (Battle-Scarred) 1 $278.36
-★ StatTrak™ Gut Knife | Blue Steel (Factory New) 1 $256.07
-★ Bayonet | Scorched (Well-Worn) 1 $99.68
-★ StatTrak™ Gut Knife | Boreal Forest (Battle-Scarred) 1 $308.72
-★ Bayonet | Night (Well-Worn) 1 $154.36
-★ StatTrak™ Gut Knife | Crimson Web (Field-Tested) 1 $295.29
-★ StatTrak™ Gut Knife | Crimson Web (Well-Worn) 1 $308.72
-StatTrak™ MAC-10 | Graven (Factory New) 1 $46.00
-★ StatTrak™ Gut Knife | Forest DDPAT (Well-Worn) 1 $201.19
-★ StatTrak™ Gut Knife | Night (Battle-Scarred) 1 $264.50
-★ StatTrak™ Gut Knife | Night (Field-Tested) 1 $335.57
-★ StatTrak™ Gut Knife | Safari Mesh (Factory New) 1 $342.36
-★ Karambit | Night (Minimal Wear) 1 $223.82
-★ StatTrak™ Gut Knife | Safari Mesh (Well-Worn) 1 $200.00
-★ StatTrak™ Gut Knife | Scorched (Battle-Scarred) 1 $246.06
-★ Bayonet | Boreal Forest (Well-Worn) 1 $75.00
-★ StatTrak™ Gut Knife | Stained (Field-Tested) 1 $137.00
-★ StatTrak™ Gut Knife | Stained (Minimal Wear) 1 $230.00
-★ StatTrak™ Gut Knife | Urban Masked (Battle-Scarred) 1 $200.67
-★ StatTrak™ Gut Knife | Urban Masked (Field-Tested) 1 $195.50
-★ StatTrak™ Karambit | Case Hardened (Field-Tested) 1 $400.00
-★ Bayonet | Blue Steel (Well-Worn) 1 $114.10
-★ StatTrak™ Karambit | Safari Mesh (Field-Tested) 1 $300.00
-★ Bayonet | Blue Steel (Battle-Scarred) 1 $108.04
-★ StatTrak™ M9 Bayonet 1 $408.06
-★ StatTrak™ M9 Bayonet | Boreal Forest (Minimal Wear) 1 $287.50
-★ StatTrak™ M9 Bayonet | Case Hardened (Field-Tested) 1 $334.91
-Tec-9 | Nuclear Threat (Factory New) 1 $134.24
-★ StatTrak™ M9 Bayonet | Night (Battle-Scarred) 1 $167.79
-★ StatTrak™ M9 Bayonet | Safari Mesh (Well-Worn) 1 $172.50
-★ StatTrak™ M9 Bayonet | Scorched (Battle-Scarred) 1 $231.53
-★ StatTrak™ M9 Bayonet | Scorched (Minimal Wear) 1 $400.00
-★ StatTrak™ M9 Bayonet | Stained (Well-Worn) 1 $243.80
-XM1014 | Blaze Orange (Factory New) 1 $21.48
-MP9 | Bulldozer (Factory New) 1 $29.50
-★ StatTrak™ M9 Bayonet | Scorched (Field-Tested) 1 $202.89
-★ M9 Bayonet | Forest DDPAT (Minimal Wear) 1 $160.00
+CS:GO Weapon Case;152,390;$0.05
+eSports 2013 Case;99,966;$0.04
+Operation Bravo Case;9,921;$0.60
+AUG | Wings (Factory New);7,144;$0.10
+FAMAS | Doomkitty (Minimal Wear);6,271;$0.06
+SG 553 | Ultraviolet (Field-Tested);5,965;$0.09
+M4A4 | Faded Zebra (Field-Tested);5,782;$0.07
+MAG-7 | Sand Dune (Field-Tested);5,628;$0.05
+Sawed-Off | Irradiated Alert (Field-Tested);5,611;$0.05
+MAC-10 | Tornado (Field-Tested);5,607;$0.04
+MAG-7 | Irradiated Alert (Field-Tested);5,605;$0.05
+XM1014 | Grassland (Field-Tested);5,601;$0.04
+PP-Bizon | Forest Leaves (Field-Tested);5,595;$0.04
+Nova | Walnut (Field-Tested);5,594;$0.05
+FAMAS | Contrast Spray (Field-Tested);5,593;$0.05
+PP-Bizon | Irradiated Alert (Field-Tested);5,306;$0.05
+SG 553 | Tornado (Field-Tested);5,134;$0.05
+Five-SeveN | Jungle (Field-Tested);5,056;$0.05
+Nova | Forest Leaves (Field-Tested);5,035;$0.05
+SSG 08 | Lichen Dashed (Field-Tested);4,718;$0.05
+XM1014 | Urban Perforated (Field-Tested);4,117;$0.07
+UMP-45 | Caramel (Field-Tested);4,031;$0.04
+MP7 | Skulls (Field-Tested);3,807;$0.09
+MAG-7 | Memento (Factory New);3,772;$0.09
+MAC-10 | Urban DDPAT (Field-Tested);3,733;$0.07
+CS:GO Weapon Case 2;3,677;$0.78
+MAG-7 | Memento (Minimal Wear);3,389;$0.09
+MP7 | Skulls (Minimal Wear);3,298;$0.11
+XM1014 | Grassland (Battle-Scarred);1,624;$0.04
+MAG-7 | Irradiated Alert (Minimal Wear);1,620;$0.04
+MAG-7 | Sand Dune (Battle-Scarred);1,617;$0.04
+MAG-7 | Sand Dune (Minimal Wear);1,613;$0.04
+SG 553 | Ultraviolet (Minimal Wear);1,602;$0.08
+XM1014 | Grassland (Minimal Wear);1,582;$0.03
+SG 553 | Ultraviolet (Battle-Scarred);1,543;$0.07
+MAG-7 | Irradiated Alert (Battle-Scarred);1,515;$0.04
+MAC-10 | Tornado (Battle-Scarred);1,414;$0.04
+FAMAS | Contrast Spray (Minimal Wear);1,408;$0.04
+Sawed-Off | Irradiated Alert (Minimal Wear);1,400;$0.05
+XM1014 | Jungle (Field-Tested);1,397;$0.04
+MAC-10 | Tornado (Minimal Wear);1,391;$0.05
+PP-Bizon | Forest Leaves (Minimal Wear);1,384;$0.05
+Sawed-Off | Irradiated Alert (Battle-Scarred);1,367;$0.05
+FAMAS | Contrast Spray (Battle-Scarred);1,331;$0.04
+Nova | Walnut (Minimal Wear);1,325;$0.04
+PP-Bizon | Forest Leaves (Battle-Scarred);1,319;$0.04
+PP-Bizon | Irradiated Alert (Battle-Scarred);1,278;$0.05
+Nova | Forest Leaves (Minimal Wear);1,263;$0.04
+PP-Bizon | Irradiated Alert (Minimal Wear);1,250;$0.05
+Five-SeveN | Jungle (Battle-Scarred);1,249;$0.06
+M4A4 | Faded Zebra (Minimal Wear);1,246;$0.10
+Nova | Walnut (Battle-Scarred);1,234;$0.05
+AUG | Wings (Minimal Wear);1,218;$0.08
+Nova | Forest Leaves (Battle-Scarred);1,205;$0.04
+Five-SeveN | Jungle (Minimal Wear);1,203;$0.07
+SG 553 | Tornado (Minimal Wear);1,185;$0.06
+SSG 08 | Lichen Dashed (Minimal Wear);1,161;$0.07
+SSG 08 | Lichen Dashed (Battle-Scarred);1,137;$0.06
+SG 553 | Tornado (Battle-Scarred);1,127;$0.05
+XM1014 | Urban Perforated (Battle-Scarred);1,122;$0.07
+M4A4 | Faded Zebra (Battle-Scarred);1,084;$0.12
+Five-SeveN | Anodized Gunmetal (Factory New);1,058;$0.07
+Glock-18 | Dragon Tattoo (Factory New);1,035;$0.80
+SG 553 | Ultraviolet (Well-Worn);1,023;$0.09
+M4A4 | Tornado (Field-Tested);1,020;$0.07
+XM1014 | Urban Perforated (Minimal Wear);1,014;$0.06
+MP7 | Groundwater (Field-Tested);997;$0.04
+MAG-7 | Sand Dune (Well-Worn);973;$0.06
+UMP-45 | Caramel (Battle-Scarred);970;$0.05
+G3SG1 | Arctic Camo (Field-Tested);968;$0.11
+M249 | Jungle DDPAT (Field-Tested);958;$0.04
+MAC-10 | Urban DDPAT (Battle-Scarred);954;$0.07
+MAC-10 | Urban DDPAT (Minimal Wear);942;$0.09
+XM1014 | Grassland (Well-Worn);937;$0.05
+UMP-45 | Caramel (Minimal Wear);925;$0.07
+P250 | Splash (Minimal Wear);925;$0.43
+M4A4 | Jungle Tiger (Field-Tested);924;$0.08
+Sawed-Off | Irradiated Alert (Well-Worn);913;$0.04
+FAMAS | Doomkitty (Field-Tested);892;$0.08
+MAC-10 | Tornado (Well-Worn);876;$0.05
+M4A4 | Desert Storm (Field-Tested);871;$0.14
+M4A1-S | Dark Water (Minimal Wear);867;$0.51
+MAG-7 | Irradiated Alert (Well-Worn);842;$0.04
+M249 | Blizzard Marbleized (Field-Tested);836;$0.07
+Tec-9 | Tornado (Field-Tested);807;$0.04
+Five-SeveN | Jungle (Well-Worn);798;$0.04
+SG 553 | Tornado (Well-Worn);790;$0.04
+PP-Bizon | Forest Leaves (Well-Worn);786;$0.05
+Nova | Forest Leaves (Well-Worn);779;$0.03
+StatTrak™ SG 553 | Ultraviolet (Field-Tested);778;$0.39
+M4A4 | Faded Zebra (Well-Worn);771;$0.06
+AK-47 | Jungle Spray (Field-Tested);763;$0.49
+M4A1-S | Dark Water (Field-Tested);760;$0.54
+Nova | Tempest (Minimal Wear);755;$0.10
+FAMAS | Contrast Spray (Well-Worn);751;$0.05
+SSG 08 | Lichen Dashed (Well-Worn);749;$0.06
+PP-Bizon | Irradiated Alert (Well-Worn);723;$0.04
+MP9 | Dry Season (Field-Tested);709;$0.04
+PP-Bizon | Carbon Fiber (Factory New);708;$0.65
+Dual Berettas | Black Limba (Field-Tested);707;$0.14
+Galil AR | Winter Forest (Field-Tested);702;$0.08
+SCAR-20 | Palm (Field-Tested);698;$0.12
+P250 | Gunsmoke (Field-Tested);681;$0.21
+Nova | Walnut (Well-Worn);673;$0.04
+G3SG1 | Demeter (Field-Tested);648;$0.11
+SG 553 | Wave Spray (Field-Tested);643;$0.10
+StatTrak™ AUG | Wings (Factory New);642;$0.95
+USP-S | Dark Water (Minimal Wear);624;$0.41
+Operation Bravo Pass;617;$3.18
+P2000 | Grassland Leaves (Field-Tested);598;$0.12
+AK-47 | Predator (Field-Tested);596;$0.54
+MAC-10 | Urban DDPAT (Well-Worn);590;$0.10
+UMP-45 | Caramel (Well-Worn);567;$0.07
+Galil AR | Orange DDPAT (Field-Tested);560;$0.46
+UMP-45 | Fallout Warning (Field-Tested);558;$0.17
+P90 | Fallout Warning (Field-Tested);557;$0.32
+Galil AR | Shattered (Field-Tested);549;$0.12
+Sawed-Off | Orange DDPAT (Field-Tested);546;$0.46
+Operation Payback Pass;540;$2.30
+CS:GO Case Key;536;$2.70
+XM1014 | Fallout Warning (Field-Tested);523;$0.17
+USP-S | Dark Water (Field-Tested);515;$0.50
+XM1014 | Urban Perforated (Well-Worn);490;$0.05
+UMP-45 | Bone Pile (Field-Tested);445;$0.10
+StatTrak™ MP7 | Skulls (Field-Tested);436;$0.43
+StatTrak™ FAMAS | Doomkitty (Minimal Wear);425;$0.88
+Five-SeveN | Candy Apple (Minimal Wear);412;$0.36
+MAG-7 | Memento (Field-Tested);405;$0.11
+StatTrak™ MAG-7 | Memento (Minimal Wear);392;$0.51
+UMP-45 | Bone Pile (Minimal Wear);379;$0.12
+Tec-9 | Blue Titanium (Factory New);341;$0.12
+StatTrak™ M4A4 | Faded Zebra (Field-Tested);338;$1.92
+StatTrak™ MAG-7 | Memento (Factory New);334;$0.64
+M4A1-S | Bright Water (Minimal Wear);312;$1.39
+Desert Eagle | Hypnotic (Factory New);309;$2.60
+StatTrak™ MP7 | Skulls (Minimal Wear);307;$0.46
+XM1014 | Jungle (Minimal Wear);280;$0.06
+Dual Berettas | Anodized Navy (Factory New);276;$0.76
+M4A4 | Jungle Tiger (Battle-Scarred);270;$0.07
+M4A4 | Tornado (Battle-Scarred);268;$0.09
+XM1014 | Jungle (Battle-Scarred);263;$0.03
+M4A1-S | Blood Tiger (Minimal Wear);263;$0.92
+M249 | Jungle DDPAT (Battle-Scarred);262;$0.04
+USP-S | Overgrowth (Field-Tested);260;$0.88
+Tec-9 | Ossified (Factory New);255;$0.50
+P250 | Hive (Minimal Wear);249;$0.27
+M249 | Blizzard Marbleized (Minimal Wear);242;$0.13
+SCAR-20 | Crimson Web (Field-Tested);238;$0.16
+G3SG1 | Arctic Camo (Battle-Scarred);217;$0.06
+Tec-9 | Tornado (Minimal Wear);213;$0.05
+P2000 | Silver (Factory New);210;$1.24
+AUG | Hot Rod (Factory New);209;$1.12
+FAMAS | Hexane (Field-Tested);208;$0.15
+Galil AR | Winter Forest (Battle-Scarred);208;$0.12
+SCAR-20 | Palm (Minimal Wear);207;$0.20
+M4A4 | Tornado (Minimal Wear);206;$0.15
+M249 | Jungle DDPAT (Minimal Wear);205;$0.06
+M4A4 | Zirka (Field-Tested);203;$0.60
+SG 553 | Wave Spray (Minimal Wear);203;$0.12
+Dual Berettas | Black Limba (Battle-Scarred);203;$0.12
+M4A4 | Jungle Tiger (Minimal Wear);201;$0.17
+StatTrak™ SG 553 | Ultraviolet (Battle-Scarred);200;$0.50
+MP7 | Groundwater (Minimal Wear);197;$0.06
+Five-SeveN | Candy Apple (Factory New);195;$0.57
+G3SG1 | Arctic Camo (Minimal Wear);194;$0.19
+AK-47 | Red Laminate (Field-Tested);194;$3.15
+G3SG1 | Demeter (Minimal Wear);194;$0.12
+P250 | Gunsmoke (Battle-Scarred);191;$0.16
+Dual Berettas | Black Limba (Minimal Wear);188;$0.25
+FAMAS | Hexane (Minimal Wear);188;$0.12
+M4A1-S | Blood Tiger (Factory New);186;$1.46
+AK-47 | Jungle Spray (Battle-Scarred);182;$0.49
+M249 | Blizzard Marbleized (Well-Worn);181;$0.10
+M249 | Blizzard Marbleized (Battle-Scarred);180;$0.11
+SCAR-20 | Splash Jam (Field-Tested);179;$0.85
+AK-47 | Predator (Battle-Scarred);178;$0.57
+Sawed-Off | Mosaico (Field-Tested);177;$0.07
+P90 | Fallout Warning (Battle-Scarred);175;$0.38
+StatTrak™ SG 553 | Ultraviolet (Minimal Wear);174;$0.73
+SG 553 | Wave Spray (Battle-Scarred);174;$0.12
+SCAR-20 | Palm (Battle-Scarred);174;$0.21
+M4A4 | Desert Storm (Minimal Wear);173;$0.57
+M4A4 | Desert Storm (Battle-Scarred);170;$0.21
+Sawed-Off | Orange DDPAT (Minimal Wear);170;$0.55
+Tec-9 | Tornado (Battle-Scarred);169;$0.04
+MP7 | Groundwater (Battle-Scarred);168;$0.04
+Negev | Anodized Navy (Factory New);166;$1.12
+MP9 | Dry Season (Battle-Scarred);162;$0.05
+AWP | BOOM (Minimal Wear);161;$6.59
+MAC-10 | Graven (Field-Tested);161;$0.74
+XM1014 | Fallout Warning (Battle-Scarred);161;$0.17
+Galil AR | Winter Forest (Minimal Wear);158;$0.21
+M4A4 | Radiation Hazard (Field-Tested);156;$1.24
+Galil AR | Shattered (Minimal Wear);156;$0.18
+MP7 | Groundwater (Well-Worn);155;$0.04
+P250 | Facets (Field-Tested);154;$0.10
+M4A4 | Tornado (Well-Worn);153;$0.08
+M4A4 | Zirka (Minimal Wear);153;$0.99
+P250 | Hive (Factory New);153;$0.46
+M4A1-S | Bright Water (Field-Tested);153;$1.40
+Glock-18 | Sand Dune (Field-Tested);151;$0.34
+AK-47 | Jungle Spray (Minimal Wear);151;$0.76
+M4A4 | Jungle Tiger (Well-Worn);150;$0.12
+XM1014 | Jungle (Well-Worn);146;$0.05
+G3SG1 | Arctic Camo (Well-Worn);144;$0.12
+P250 | Gunsmoke (Minimal Wear);144;$0.60
+P90 | Fallout Warning (Minimal Wear);144;$0.73
+MP7 | Whiteout (Field-Tested);142;$0.28
+PP-Bizon | Modern Hunter (Field-Tested);141;$0.26
+SCAR-20 | Palm (Well-Worn);140;$0.20
+Sawed-Off | Orange DDPAT (Battle-Scarred);140;$0.54
+G3SG1 | Demeter (Well-Worn);140;$0.13
+Galil AR | Shattered (Battle-Scarred);139;$0.15
+StatTrak™ SG 553 | Ultraviolet (Well-Worn);136;$0.49
+G3SG1 | Demeter (Battle-Scarred);136;$0.12
+AUG | Anodized Navy (Factory New);135;$0.55
+P250 | Modern Hunter (Field-Tested);135;$0.30
+MP9 | Dry Season (Minimal Wear);134;$0.07
+SG 553 | Wave Spray (Well-Worn);133;$0.07
+Negev | Palm (Field-Tested);132;$0.24
+Five-SeveN | Candy Apple (Field-Tested);132;$0.34
+FAMAS | Hexane (Factory New);132;$0.28
+Nova | Blaze Orange (Field-Tested);131;$0.19
+AK-47 | Predator (Minimal Wear);131;$0.88
+AWP | Lightning Strike (Factory New);131;$8.97
+eSports 2013 Key;130;$2.71
+SSG 08 | Mayan Dreams (Field-Tested);127;$0.20
+M249 | Jungle DDPAT (Well-Worn);127;$0.05
+M4A4 | Desert Storm (Well-Worn);126;$0.20
+UMP-45 | Fallout Warning (Battle-Scarred);125;$0.19
+AUG | Copperhead (Field-Tested);125;$0.75
+XM1014 | Fallout Warning (Minimal Wear);123;$0.32
+P2000 | Grassland Leaves (Battle-Scarred);123;$0.10
+UMP-45 | Fallout Warning (Minimal Wear);123;$0.37
+Nova | Tempest (Field-Tested);122;$0.13
+StatTrak™ AUG | Wings (Minimal Wear);121;$0.92
+Dual Berettas | Black Limba (Well-Worn);120;$0.12
+XM1014 | Blaze Orange (Field-Tested);119;$0.30
+Galil AR | Winter Forest (Well-Worn);119;$0.12
+Nova | Modern Hunter (Field-Tested);118;$0.17
+Galil AR | Orange DDPAT (Minimal Wear);118;$0.53
+MP9 | Hypnotic (Factory New);117;$0.60
+AWP | Snake Camo (Field-Tested);116;$3.23
+StatTrak™ Nova | Tempest (Minimal Wear);116;$1.92
+P90 | Glacier Mesh (Field-Tested);113;$1.15
+StatTrak™ FAMAS | Doomkitty (Field-Tested);113;$1.00
+StatTrak™ Dual Berettas | Black Limba (Field-Tested);111;$1.15
+AK-47 | Jungle Spray (Well-Worn);109;$0.55
+P2000 | Grassland Leaves (Well-Worn);108;$0.13
+Name Tag;107;$2.10
+P250 | Gunsmoke (Well-Worn);107;$0.16
+Galil AR | Orange DDPAT (Battle-Scarred);107;$0.57
+StatTrak™ SG 553 | Wave Spray (Field-Tested);106;$0.60
+Tec-9 | Brass (Field-Tested);105;$0.20
+P2000 | Grassland Leaves (Minimal Wear);102;$0.29
+AWP | BOOM (Field-Tested);101;$5.98
+StatTrak™ Sawed-Off | Orange DDPAT (Field-Tested);98;$2.01
+StatTrak™ G3SG1 | Demeter (Field-Tested);98;$1.30
+AK-47 | Predator (Well-Worn);98;$0.70
+Sawed-Off | Orange DDPAT (Well-Worn);94;$0.60
+P90 | Emerald Dragon (Field-Tested);94;$2.62
+StatTrak™ M4A4 | Faded Zebra (Minimal Wear);93;$2.80
+Tec-9 | Brass (Battle-Scarred);93;$0.16
+Tec-9 | Nuclear Threat (Field-Tested);92;$0.95
+Tec-9 | Brass (Well-Worn);92;$0.17
+P90 | Fallout Warning (Well-Worn);89;$0.47
+AK-47 | Case Hardened (Field-Tested);88;$4.62
+M4A1-S | Blood Tiger (Field-Tested);87;$0.98
+MP9 | Bulldozer (Field-Tested);86;$0.92
+UMP-45 | Fallout Warning (Well-Worn);86;$0.18
+Galil AR | Shattered (Well-Worn);85;$0.15
+StatTrak™ M4A4 | Faded Zebra (Battle-Scarred);84;$2.09
+P250 | Splash (Field-Tested);84;$0.63
+StatTrak™ UMP-45 | Bone Pile (Field-Tested);84;$1.00
+MP9 | Dry Season (Well-Worn);81;$0.07
+USP-S | Overgrowth (Battle-Scarred);81;$0.75
+P250 | Hive (Field-Tested);80;$0.27
+P2000 | Scorpion (Factory New);79;$5.11
+Nova | Graphite (Factory New);79;$0.47
+PP-Bizon | Carbon Fiber (Minimal Wear);78;$0.63
+StatTrak™ Galil AR | Shattered (Field-Tested);76;$1.84
+Five-SeveN | Anodized Gunmetal (Minimal Wear);76;$0.14
+Desert Eagle | Blaze (Factory New);74;$9.17
+AK-47 | Black Laminate (Field-Tested);72;$7.75
+SCAR-20 | Crimson Web (Minimal Wear);71;$0.55
+P2000 | Ocean Foam (Factory New);71;$3.00
+Galil AR | Orange DDPAT (Well-Worn);71;$0.55
+StatTrak™ UMP-45 | Bone Pile (Minimal Wear);71;$1.54
+Dual Berettas | Demolition (Field-Tested);71;$1.98
+Sawed-Off | Copper (Field-Tested);70;$0.62
+SCAR-20 | Crimson Web (Battle-Scarred);69;$0.20
+AK-47 | Case Hardened (Well-Worn);68;$4.09
+Five-SeveN | Jungle (Factory New);68;$0.39
+StatTrak™ MAG-7 | Memento (Field-Tested);66;$0.51
+AK-47 | Case Hardened (Battle-Scarred);64;$3.53
+StatTrak™ M4A4 | Faded Zebra (Well-Worn);64;$2.00
+Tec-9 | Brass (Minimal Wear);63;$0.30
+P90 | Death by Kitty (Field-Tested);63;$6.30
+XM1014 | Fallout Warning (Well-Worn);63;$0.17
+USP-S | Overgrowth (Minimal Wear);63;$1.80
+MAG-7 | Sand Dune (Factory New);61;$0.15
+AK-47 | Case Hardened (Minimal Wear);60;$6.38
+StatTrak™ MAC-10 | Graven (Field-Tested);60;$2.77
+SSG 08 | Mayan Dreams (Battle-Scarred);60;$0.16
+P250 | Facets (Well-Worn);59;$0.20
+SCAR-20 | Emerald (Factory New);59;$3.99
+MAC-10 | Graven (Minimal Wear);58;$1.01
+Dual Berettas | Demolition (Well-Worn);58;$1.49
+MP7 | Whiteout (Well-Worn);57;$0.28
+SG 553 | Tornado (Factory New);57;$0.23
+Negev | Palm (Minimal Wear);56;$0.48
+AWP | Graphite (Factory New);56;$10.82
+MAG-7 | Hazard (Field-Tested);56;$0.34
+M4A4 | Modern Hunter (Field-Tested);56;$0.96
+StatTrak™ Galil AR | Orange DDPAT (Field-Tested);55;$2.30
+Dual Berettas | Hemoglobin (Minimal Wear);55;$0.85
+MAC-10 | Tornado (Factory New);54;$0.15
+XM1014 | Urban Perforated (Factory New);54;$0.32
+Nova | Modern Hunter (Minimal Wear);53;$0.23
+P90 | Death by Kitty (Minimal Wear);53;$7.25
+MAG-7 | Irradiated Alert (Factory New);53;$0.28
+Dual Berettas | Hemoglobin (Factory New);52;$0.99
+P90 | Cold Blooded (Factory New);51;$3.08
+SSG 08 | Mayan Dreams (Well-Worn);51;$0.25
+StatTrak™ SG 553 | Wave Spray (Well-Worn);51;$0.86
+PP-Bizon | Forest Leaves (Factory New);51;$0.29
+XM1014 | Blaze Orange (Battle-Scarred);50;$0.31
+P250 | Nuclear Threat (Field-Tested);50;$3.84
+FAMAS | Contrast Spray (Factory New);50;$0.38
+StatTrak™ SG 553 | Wave Spray (Battle-Scarred);50;$0.82
+MAC-10 | Graven (Battle-Scarred);50;$0.80
+SCAR-20 | Crimson Web (Well-Worn);50;$0.18
+Nova | Forest Leaves (Factory New);49;$0.18
+M4A4 | Faded Zebra (Factory New);49;$0.85
+Nova | Walnut (Factory New);49;$0.29
+MP7 | Whiteout (Battle-Scarred);49;$0.30
+P90 | Glacier Mesh (Minimal Wear);48;$1.65
+Nova | Tempest (Factory New);47;$0.55
+Glock-18 | Fade (Factory New);47;$12.31
+StatTrak™ Dual Berettas | Black Limba (Minimal Wear);47;$2.24
+StatTrak™ P250 | Splash (Minimal Wear);46;$7.50
+Sawed-Off | Copper (Minimal Wear);46;$0.84
+Sawed-Off | Mosaico (Well-Worn);46;$0.15
+XM1014 | Grassland (Factory New);46;$0.21
+AK-47 | Black Laminate (Minimal Wear);46;$8.00
+UMP-45 | Caramel (Factory New);45;$0.55
+P250 | Facets (Battle-Scarred);45;$0.12
+M4A4 | Radiation Hazard (Minimal Wear);45;$6.00
+Glock-18 | Sand Dune (Well-Worn);45;$0.46
+StatTrak™ Glock-18 | Dragon Tattoo (Factory New);45;$11.47
+Glock-18 | Dragon Tattoo (Minimal Wear);45;$1.23
+Sawed-Off | Mosaico (Battle-Scarred);45;$0.07
+Five-SeveN | Case Hardened (Field-Tested);44;$0.80
+AK-47 | Red Laminate (Battle-Scarred);44;$4.20
+M4A4 | Radiation Hazard (Battle-Scarred);44;$0.98
+PP-Bizon | Rust Coat (Field-Tested);43;$0.42
+Negev | Palm (Battle-Scarred);43;$0.23
+Sawed-Off | Mosaico (Minimal Wear);42;$0.20
+P250 | Modern Hunter (Battle-Scarred);42;$0.34
+USP-S | Overgrowth (Well-Worn);42;$1.23
+MP7 | Whiteout (Minimal Wear);42;$1.39
+Tec-9 | Tornado (Well-Worn);42;$0.13
+Glock-18 | Brass (Field-Tested);42;$2.58
+AK-47 | Red Laminate (Minimal Wear);42;$5.26
+XM1014 | Blaze Orange (Minimal Wear);41;$1.09
+Sawed-Off | Irradiated Alert (Factory New);41;$0.25
+StatTrak™ FAMAS | Hexane (Field-Tested);41;$2.39
+Sawed-Off | Copper (Well-Worn);41;$0.80
+USP-S | Serum (Factory New);40;$5.21
+FAMAS | Spitfire (Field-Tested);40;$2.22
+Glock-18 | Sand Dune (Battle-Scarred);40;$0.34
+P250 | Facets (Minimal Wear);40;$0.61
+MAC-10 | Urban DDPAT (Factory New);40;$0.42
+Five-SeveN | Case Hardened (Battle-Scarred);40;$0.82
+SCAR-20 | Splash Jam (Battle-Scarred);39;$1.15
+StatTrak™ M4A1-S | Dark Water (Minimal Wear);38;$9.74
+Negev | Palm (Well-Worn);38;$0.27
+StatTrak™ SCAR-20 | Crimson Web (Field-Tested);37;$2.53
+Desert Eagle | Hypnotic (Minimal Wear);37;$2.91
+Glock-18 | Sand Dune (Minimal Wear);37;$0.72
+Five-SeveN | Case Hardened (Well-Worn);37;$0.70
+StatTrak™ SG 553 | Wave Spray (Minimal Wear);37;$1.23
+SCAR-20 | Splash Jam (Well-Worn);37;$1.20
+Nova | Blaze Orange (Minimal Wear);36;$0.94
+Glock-18 | Brass (Well-Worn);36;$2.68
+SCAR-20 | Splash Jam (Minimal Wear);36;$2.14
+StatTrak™ G3SG1 | Demeter (Battle-Scarred);36;$1.30
+StatTrak™ Galil AR | Shattered (Battle-Scarred);36;$1.70
+StatTrak™ G3SG1 | Demeter (Minimal Wear);36;$2.54
+StatTrak™ Galil AR | Orange DDPAT (Well-Worn);36;$2.57
+P90 | Glacier Mesh (Well-Worn);36;$1.35
+StatTrak™ Sawed-Off | Orange DDPAT (Battle-Scarred);36;$1.38
+StatTrak™ Dual Berettas | Black Limba (Battle-Scarred);36;$1.24
+StatTrak™ USP-S | Dark Water (Minimal Wear);35;$8.45
+SSG 08 | Mayan Dreams (Minimal Wear);35;$0.65
+StatTrak™ M4A1-S | Blood Tiger (Factory New);35;$15.69
+StatTrak™ Tec-9 | Blue Titanium (Factory New);35;$1.95
+P250 | Modern Hunter (Well-Worn);35;$0.43
+AUG | Copperhead (Minimal Wear);34;$0.80
+Nova | Modern Hunter (Well-Worn);34;$0.23
+XM1014 | Jungle (Factory New);34;$0.59
+StatTrak™ Dual Berettas | Black Limba (Well-Worn);34;$1.20
+PP-Bizon | Irradiated Alert (Factory New);34;$0.47
+MAC-10 | Graven (Well-Worn);33;$0.52
+PP-Bizon | Modern Hunter (Battle-Scarred);33;$0.20
+M4A4 | Radiation Hazard (Well-Worn);32;$1.97
+Tec-9 | Nuclear Threat (Battle-Scarred);32;$1.15
+StatTrak™ M4A1-S | Dark Water (Field-Tested);32;$10.35
+Five-SeveN | Case Hardened (Minimal Wear);32;$1.47
+P90 | Glacier Mesh (Battle-Scarred);31;$0.92
+USP-S | Serum (Minimal Wear);31;$3.96
+UMP-45 | Bone Pile (Factory New);31;$0.59
+StatTrak™ USP-S | Dark Water (Field-Tested);31;$6.67
+P250 | Nuclear Threat (Battle-Scarred);31;$2.54
+P250 | Splash (Factory New);31;$1.53
+Tec-9 | Nuclear Threat (Minimal Wear);30;$1.95
+AWP | Snake Camo (Battle-Scarred);30;$3.52
+PP-Bizon | Rust Coat (Well-Worn);30;$0.40
+AWP | Snake Camo (Minimal Wear);30;$5.20
+StatTrak™ Desert Eagle | Hypnotic (Factory New);30;$14.80
+P90 | Emerald Dragon (Minimal Wear);30;$3.84
+PP-Bizon | Modern Hunter (Minimal Wear);29;$0.52
+Tec-9 | Ossified (Minimal Wear);29;$0.57
+Nova | Modern Hunter (Battle-Scarred);29;$0.21
+MAG-7 | Hazard (Battle-Scarred);29;$0.32
+StatTrak™ Nova | Tempest (Field-Tested);28;$2.14
+StatTrak™ Galil AR | Orange DDPAT (Battle-Scarred);28;$2.00
+AK-47 | Black Laminate (Battle-Scarred);28;$8.05
+Desert Eagle | Golden Koi (Factory New);28;$7.33
+MAG-7 | Hazard (Minimal Wear);28;$0.82
+MAG-7 | Hazard (Well-Worn);27;$0.39
+StatTrak™ Sawed-Off | Orange DDPAT (Minimal Wear);27;$3.31
+StatTrak™ M4A4 | Zirka (Field-Tested);27;$8.62
+Dual Berettas | Anodized Navy (Minimal Wear);27;$0.94
+PP-Bizon | Modern Hunter (Well-Worn);27;$0.27
+MP9 | Bulldozer (Minimal Wear);26;$1.76
+Dual Berettas | Demolition (Battle-Scarred);26;$1.70
+PP-Bizon | Rust Coat (Battle-Scarred);26;$0.75
+AK-47 | Red Laminate (Well-Worn);26;$3.99
+M4A4 | Jungle Tiger (Factory New);26;$2.46
+StatTrak™ Galil AR | Orange DDPAT (Minimal Wear);26;$4.37
+SG 553 | Ultraviolet (Factory New);26;$0.55
+AUG | Anodized Navy (Minimal Wear);26;$1.01
+StatTrak™ USP-S | Overgrowth (Field-Tested);25;$8.21
+PP-Bizon | Rust Coat (Minimal Wear);25;$0.69
+SG 553 | Wave Spray (Factory New);25;$1.12
+MP9 | Bulldozer (Battle-Scarred);25;$1.00
+Nova | Blaze Orange (Well-Worn);25;$0.42
+Glock-18 | Brass (Battle-Scarred);25;$2.30
+StatTrak™ AWP | BOOM (Minimal Wear);24;$37.57
+P90 | Emerald Dragon (Well-Worn);24;$2.73
+SCAR-20 | Palm (Factory New);24;$2.00
+StatTrak™ Galil AR | Shattered (Well-Worn);24;$1.75
+P250 | Modern Hunter (Minimal Wear);24;$1.03
+StatTrak™ M4A4 | Zirka (Minimal Wear);23;$12.73
+StatTrak™ M4A1-S | Blood Tiger (Minimal Wear);23;$13.73
+StatTrak™ G3SG1 | Demeter (Well-Worn);23;$1.50
+StatTrak™ Sawed-Off | Orange DDPAT (Well-Worn);23;$2.09
+M4A4 | Modern Hunter (Battle-Scarred);22;$1.20
+StatTrak™ FAMAS | Hexane (Factory New);22;$4.50
+G3SG1 | Demeter (Factory New);22;$1.72
+Sawed-Off | Copper (Battle-Scarred);22;$0.76
+XM1014 | Blaze Orange (Well-Worn);22;$0.41
+M249 | Jungle DDPAT (Factory New);22;$0.92
+Nova | Graphite (Minimal Wear);21;$0.73
+AK-47 | Black Laminate (Well-Worn);21;$7.72
+FAMAS | Hexane (Well-Worn);21;$0.27
+AWP | Snake Camo (Well-Worn);21;$3.45
+StatTrak™ Galil AR | Shattered (Minimal Wear);21;$3.14
+StatTrak™ FAMAS | Hexane (Minimal Wear);21;$2.68
+Dual Berettas | Hemoglobin (Field-Tested);21;$1.08
+Nova | Blaze Orange (Battle-Scarred);20;$0.25
+Tec-9 | Brass (Factory New);20;$1.26
+MP7 | Groundwater (Factory New);20;$1.00
+Glock-18 | Brass (Minimal Wear);20;$4.26
+StatTrak™ AK-47 | Red Laminate (Field-Tested);20;$47.00
+StatTrak™ Nova | Graphite (Factory New);20;$6.09
+AK-47 | Fire Serpent (Field-Tested);19;$24.15
+AUG | Hot Rod (Minimal Wear);19;$1.69
+Tec-9 | Nuclear Threat (Well-Worn);19;$1.43
+P250 | Nuclear Threat (Minimal Wear);19;$11.27
+MP9 | Dry Season (Factory New);19;$0.85
+FAMAS | Spitfire (Minimal Wear);19;$7.10
+StatTrak™ MAC-10 | Graven (Battle-Scarred);19;$2.50
+P2000 | Silver (Minimal Wear);18;$1.65
+MP9 | Bulldozer (Well-Worn);18;$0.92
+StatTrak™ P250 | Hive (Factory New);18;$9.25
+StatTrak™ SCAR-20 | Crimson Web (Minimal Wear);18;$6.00
+StatTrak™ P250 | Hive (Minimal Wear);18;$7.91
+MP9 | Hypnotic (Minimal Wear);18;$0.93
+AK-47 | Jungle Spray (Factory New);17;$3.84
+Dual Berettas | Black Limba (Factory New);17;$1.46
+SSG 08 | Lichen Dashed (Factory New);17;$1.32
+Galil AR | Shattered (Factory New);17;$1.62
+SSG 08 | Blood in the Water (Minimal Wear);16;$9.39
+Galil AR | Winter Forest (Factory New);16;$2.30
+M4A4 | Modern Hunter (Well-Worn);16;$1.15
+M4A4 | Zirka (Factory New);16;$5.48
+StatTrak™ M4A1-S | Bright Water (Field-Tested);16;$14.76
+P250 | Gunsmoke (Factory New);16;$4.50
+StatTrak™ M4A1-S | Bright Water (Minimal Wear);16;$14.95
+Negev | Anodized Navy (Minimal Wear);16;$1.20
+StatTrak™ MP9 | Hypnotic (Factory New);16;$4.50
+StatTrak™ P90 | Emerald Dragon (Minimal Wear);16;$27.00
+StatTrak™ AWP | Graphite (Factory New);15;$79.92
+FAMAS | Spitfire (Battle-Scarred);15;$1.54
+P250 | Nuclear Threat (Well-Worn);15;$4.07
+StatTrak™ SG 553 | Ultraviolet (Factory New);15;$6.16
+StatTrak™ MAC-10 | Graven (Well-Worn);15;$2.62
+M249 | Blizzard Marbleized (Factory New);15;$2.30
+Sawed-Off | Copper (Factory New);15;$2.58
+StatTrak™ AWP | Lightning Strike (Factory New);14;$48.87
+Tec-9 | Tornado (Factory New);14;$1.61
+SCAR-20 | Emerald (Minimal Wear);14;$4.94
+M4A4 | Modern Hunter (Minimal Wear);14;$4.02
+AWP | Graphite (Minimal Wear);13;$10.40
+AK-47 | Fire Serpent (Minimal Wear);13;$35.20
+M4A4 | Zirka (Well-Worn);13;$1.34
+★ Gut Knife | Fade (Factory New);13;$132.34
+P2000 | Ocean Foam (Minimal Wear);13;$3.50
+StatTrak™ SCAR-20 | Crimson Web (Battle-Scarred);13;$2.72
+StatTrak™ Dual Berettas | Hemoglobin (Minimal Wear);12;$6.51
+StatTrak™ M4A4 | Faded Zebra (Factory New);12;$17.45
+G3SG1 | Arctic Camo (Factory New);12;$2.13
+Desert Eagle | Blaze (Minimal Wear);12;$9.20
+StatTrak™ P90 | Death by Kitty (Field-Tested);12;$34.43
+FAMAS | Spitfire (Well-Worn);12;$3.57
+AK-47 | Case Hardened (Factory New);12;$13.39
+P90 | Emerald Dragon (Battle-Scarred);12;$4.48
+Sawed-Off | Orange DDPAT (Factory New);12;$2.62
+PP-Bizon | Rust Coat (Factory New);12;$1.90
+Desert Eagle | Golden Koi (Minimal Wear);12;$6.99
+AWP | BOOM (Factory New);12;$17.45
+StatTrak™ P2000 | Ocean Foam (Factory New);12;$26.99
+StatTrak™ MAC-10 | Graven (Minimal Wear);11;$4.97
+Galil AR | Orange DDPAT (Factory New);11;$3.41
+StatTrak™ Desert Eagle | Golden Koi (Factory New);11;$53.68
+StatTrak™ P90 | Cold Blooded (Factory New);11;$28.20
+★ Karambit;11;$190.83
+★ Flip Knife;11;$67.05
+StatTrak™ P250 | Hive (Field-Tested);11;$7.30
+UMP-45 | Fallout Warning (Factory New);11;$2.48
+USP-S | Overgrowth (Factory New);11;$6.03
+P90 | Fallout Warning (Factory New);11;$5.00
+SCAR-20 | Crimson Web (Factory New);11;$3.91
+M4A4 | Tornado (Factory New);11;$4.00
+StatTrak™ P250 | Splash (Field-Tested);11;$9.67
+AK-47 | Predator (Factory New);11;$5.72
+USP-S | Serum (Field-Tested);11;$4.00
+StatTrak™ USP-S | Overgrowth (Well-Worn);11;$11.50
+Five-SeveN | Case Hardened (Factory New);10;$5.12
+StatTrak™ P90 | Emerald Dragon (Field-Tested);10;$19.55
+StatTrak™ SCAR-20 | Crimson Web (Well-Worn);10;$2.70
+Nova | Blaze Orange (Factory New);10;$7.55
+AK-47 | Fire Serpent (Battle-Scarred);10;$24.17
+Glock-18 | Fade (Minimal Wear);10;$15.11
+★ Flip Knife | Fade (Factory New);10;$175.00
+Glock-18 | Brass (Factory New);10;$8.93
+StatTrak™ Dual Berettas | Black Limba (Factory New);10;$25.45
+★ Gut Knife | Safari Mesh (Field-Tested);10;$62.96
+StatTrak™ SG 553 | Wave Spray (Factory New);10;$13.00
+★ Karambit | Stained (Field-Tested);9;$170.00
+M4A4 | Desert Storm (Factory New);9;$5.78
+StatTrak™ USP-S | Overgrowth (Battle-Scarred);9;$7.88
+MAC-10 | Graven (Factory New);9;$4.60
+StatTrak™ P90 | Death by Kitty (Minimal Wear);9;$46.00
+★ Gut Knife | Slaughter (Minimal Wear);9;$160.42
+StatTrak™ Glock-18 | Dragon Tattoo (Minimal Wear);9;$15.98
+★ Gut Knife;9;$74.75
+StatTrak™ USP-S | Overgrowth (Minimal Wear);9;$12.81
+P2000 | Grassland Leaves (Factory New);9;$2.44
+StatTrak™ Five-SeveN | Case Hardened (Battle-Scarred);9;$12.77
+P90 | Cold Blooded (Minimal Wear);9;$4.78
+★ Karambit | Night (Field-Tested);9;$212.00
+★ Flip Knife | Safari Mesh (Field-Tested);9;$65.75
+StatTrak™ M4A1-S | Blood Tiger (Field-Tested);9;$12.55
+StatTrak™ FAMAS | Hexane (Well-Worn);9;$5.17
+P250 | Modern Hunter (Factory New);9;$9.12
+StatTrak™ USP-S | Serum (Minimal Wear);9;$26.98
+★ M9 Bayonet | Scorched (Field-Tested);8;$100.55
+SSG 08 | Blood in the Water (Field-Tested);8;$9.69
+Glock-18 | Sand Dune (Factory New);8;$5.03
+StatTrak™ Nova | Tempest (Factory New);8;$8.48
+StatTrak™ UMP-45 | Bone Pile (Factory New);8;$5.70
+P90 | Emerald Dragon (Factory New);8;$15.50
+★ Flip Knife | Scorched (Field-Tested);8;$65.00
+StatTrak™ AWP | BOOM (Field-Tested);8;$44.53
+AWP | Lightning Strike (Minimal Wear);8;$9.40
+StatTrak™ Five-SeveN | Case Hardened (Field-Tested);8;$13.89
+StatTrak™ AK-47 | Case Hardened (Field-Tested);8;$45.66
+P2000 | Scorpion (Minimal Wear);7;$6.95
+StatTrak™ AK-47 | Red Laminate (Well-Worn);7;$50.02
+StatTrak™ USP-S | Serum (Field-Tested);7;$29.48
+StatTrak™ Desert Eagle | Hypnotic (Minimal Wear);7;$17.34
+StatTrak™ M4A4 | Zirka (Well-Worn);7;$12.65
+★ M9 Bayonet | Night (Field-Tested);7;$107.38
+★ Bayonet | Boreal Forest (Battle-Scarred);7;$83.92
+StatTrak™ SSG 08 | Blood in the Water (Minimal Wear);7;$62.10
+★ Bayonet | Crimson Web (Field-Tested);7;$191.40
+★ Gut Knife | Crimson Web (Field-Tested);7;$123.48
+★ Flip Knife | Night (Field-Tested);7;$89.99
+★ Flip Knife | Urban Masked (Field-Tested);7;$79.99
+StatTrak™ USP-S | Serum (Factory New);7;$35.90
+StatTrak™ Nova | Graphite (Minimal Wear);7;$10.47
+StatTrak™ G3SG1 | Demeter (Factory New);7;$13.91
+★ Bayonet | Safari Mesh (Field-Tested);7;$81.89
+StatTrak™ P250 | Splash (Factory New);7;$18.49
+★ Bayonet | Fade (Factory New);7;$223.82
+StatTrak™ AK-47 | Red Laminate (Minimal Wear);6;$55.04
+★ M9 Bayonet | Fade (Factory New);6;$248.90
+★ Karambit | Scorched (Field-Tested);6;$177.41
+StatTrak™ Five-SeveN | Case Hardened (Minimal Wear);6;$19.00
+★ Flip Knife | Stained (Minimal Wear);6;$80.50
+StatTrak™ Dual Berettas | Hemoglobin (Factory New);6;$8.02
+StatTrak™ Galil AR | Shattered (Factory New);6;$16.10
+StatTrak™ AK-47 | Case Hardened (Battle-Scarred);6;$40.91
+★ M9 Bayonet | Forest DDPAT (Field-Tested);6;$94.99
+★ Gut Knife | Boreal Forest (Field-Tested);6;$60.95
+Nova | Modern Hunter (Factory New);6;$5.08
+AK-47 | Red Laminate (Factory New);6;$19.73
+StatTrak™ MP9 | Hypnotic (Minimal Wear);6;$5.48
+★ Gut Knife | Case Hardened (Well-Worn);6;$88.59
+★ Gut Knife | Blue Steel (Field-Tested);6;$84.57
+★ Karambit | Urban Masked (Field-Tested);6;$159.06
+P90 | Glacier Mesh (Factory New);6;$25.00
+StatTrak™ AK-47 | Case Hardened (Well-Worn);6;$43.70
+★ Gut Knife | Urban Masked (Battle-Scarred);6;$69.00
+★ Flip Knife | Slaughter (Minimal Wear);6;$135.73
+StatTrak™ Dual Berettas | Hemoglobin (Field-Tested);6;$6.14
+★ Bayonet | Slaughter (Minimal Wear);6;$223.82
+Negev | Palm (Factory New);6;$6.73
+★ Flip Knife | Blue Steel (Field-Tested);5;$87.25
+★ Bayonet | Night (Field-Tested);5;$119.45
+AK-47 | Black Laminate (Factory New);5;$49.69
+★ M9 Bayonet | Slaughter (Factory New);5;$277.85
+★ Flip Knife | Slaughter (Factory New);5;$160.00
+★ Gut Knife | Crimson Web (Battle-Scarred);5;$92.00
+StatTrak™ Five-SeveN | Case Hardened (Well-Worn);5;$13.25
+XM1014 | Fallout Warning (Factory New);5;$3.07
+SSG 08 | Blood in the Water (Factory New);5;$29.81
+★ Gut Knife | Scorched (Field-Tested);5;$78.00
+★ Gut Knife | Blue Steel (Well-Worn);5;$94.15
+P250 | Facets (Factory New);5;$8.97
+★ Karambit | Boreal Forest (Field-Tested);5;$143.75
+★ Karambit | Safari Mesh (Field-Tested);5;$159.85
+★ Bayonet | Safari Mesh (Minimal Wear);5;$90.85
+★ Flip Knife | Case Hardened (Field-Tested);5;$100.00
+★ Bayonet | Case Hardened (Field-Tested);5;$125.00
+★ Flip Knife | Case Hardened (Minimal Wear);5;$115.00
+★ Gut Knife | Urban Masked (Field-Tested);5;$69.47
+StatTrak™ P90 | Emerald Dragon (Battle-Scarred);5;$23.93
+Sawed-Off | Mosaico (Factory New);5;$3.50
+PP-Bizon | Modern Hunter (Factory New);5;$8.46
+StatTrak™ AK-47 | Case Hardened (Factory New);5;$130.00
+★ Karambit | Fade (Factory New);5;$359.00
+★ Bayonet | Stained (Well-Worn);5;$85.16
+★ Gut Knife | Night (Field-Tested);5;$79.35
+★ Bayonet | Scorched (Field-Tested);5;$93.96
+★ M9 Bayonet | Boreal Forest (Field-Tested);5;$84.90
+★ Gut Knife | Boreal Forest (Battle-Scarred);5;$72.50
+StatTrak™ P2000 | Ocean Foam (Minimal Wear);5;$26.23
+StatTrak™ AK-47 | Case Hardened (Minimal Wear);4;$55.57
+StatTrak™ AWP | Graphite (Minimal Wear);4;$77.18
+★ Bayonet | Safari Mesh (Battle-Scarred);4;$100.67
+★ M9 Bayonet;4;$97.31
+★ Flip Knife | Stained (Field-Tested);4;$84.90
+★ M9 Bayonet | Crimson Web (Field-Tested);4;$228.45
+★ Bayonet;4;$90.62
+★ Gut Knife | Stained (Well-Worn);4;$75.16
+SSG 08 | Mayan Dreams (Factory New);4;$12.20
+★ Flip Knife | Case Hardened (Battle-Scarred);4;$91.45
+AK-47 | Fire Serpent (Well-Worn);4;$28.75
+★ Gut Knife | Stained (Field-Tested);4;$80.00
+★ Bayonet | Case Hardened (Well-Worn);4;$119.99
+★ Flip Knife | Forest DDPAT (Field-Tested);4;$70.06
+★ M9 Bayonet | Safari Mesh (Field-Tested);4;$90.00
+★ Bayonet | Forest DDPAT (Field-Tested);4;$80.50
+★ Karambit | Urban Masked (Minimal Wear);4;$165.63
+★ Flip Knife | Crimson Web (Field-Tested);4;$138.00
+StatTrak™ USP-S | Overgrowth (Factory New);4;$61.00
+AWP | Snake Camo (Factory New);4;$22.86
+★ Bayonet | Boreal Forest (Field-Tested);4;$96.64
+★ Flip Knife | Crimson Web (Battle-Scarred);4;$166.75
+★ Gut Knife | Case Hardened (Minimal Wear);4;$97.00
+★ Karambit | Case Hardened (Minimal Wear);4;$264.47
+★ Karambit | Case Hardened (Well-Worn);4;$273.58
+★ M9 Bayonet | Blue Steel (Minimal Wear);4;$115.00
+★ Bayonet | Case Hardened (Minimal Wear);3;$154.36
+★ Karambit | Blue Steel (Battle-Scarred);3;$225.02
+★ Flip Knife | Blue Steel (Minimal Wear);3;$93.96
+★ Bayonet | Case Hardened (Battle-Scarred);3;$104.94
+★ Karambit | Safari Mesh (Battle-Scarred);3;$138.00
+StatTrak™ AK-47 | Red Laminate (Battle-Scarred);3;$48.33
+StatTrak™ P90 | Cold Blooded (Minimal Wear);3;$33.00
+★ Karambit | Blue Steel (Field-Tested);3;$190.85
+★ Flip Knife | Boreal Forest (Battle-Scarred);3;$69.00
+SCAR-20 | Splash Jam (Factory New);3;$54.76
+StatTrak™ Desert Eagle | Golden Koi (Minimal Wear);3;$58.97
+★ M9 Bayonet | Blue Steel (Battle-Scarred);3;$201.33
+★ Gut Knife | Slaughter (Factory New);3;$180.00
+★ Bayonet | Stained (Field-Tested);3;$108.71
+★ M9 Bayonet | Case Hardened (Minimal Wear);3;$201.33
+★ M9 Bayonet | Night (Battle-Scarred);3;$105.50
+★ Bayonet | Stained (Battle-Scarred);3;$85.91
+★ Bayonet | Blue Steel (Field-Tested);3;$115.76
+★ Bayonet | Forest DDPAT (Minimal Wear);3;$98.99
+★ Flip Knife | Night (Well-Worn);3;$131.21
+★ Flip Knife | Safari Mesh (Battle-Scarred);3;$66.99
+★ Karambit | Case Hardened (Battle-Scarred);3;$281.87
+StatTrak™ P90 | Emerald Dragon (Well-Worn);3;$20.14
+★ Gut Knife | Forest DDPAT (Minimal Wear);3;$80.50
+★ M9 Bayonet | Urban Masked (Field-Tested);3;$85.00
+★ M9 Bayonet | Stained (Well-Worn);3;$98.41
+★ Gut Knife | Forest DDPAT (Field-Tested);3;$69.00
+★ M9 Bayonet | Stained (Field-Tested);3;$100.00
+★ Bayonet | Slaughter (Factory New);3;$278.49
+★ Bayonet | Scorched (Minimal Wear);3;$115.59
+★ Gut Knife | Boreal Forest (Minimal Wear);3;$74.75
+★ Karambit | Forest DDPAT (Field-Tested);3;$155.48
+★ M9 Bayonet | Slaughter (Minimal Wear);3;$254.69
+★ M9 Bayonet | Boreal Forest (Well-Worn);3;$152.50
+★ Karambit | Crimson Web (Field-Tested);3;$300.00
+StatTrak™ Sawed-Off | Orange DDPAT (Factory New);3;$28.94
+StatTrak™ SCAR-20 | Crimson Web (Factory New);3;$43.21
+★ Karambit | Urban Masked (Battle-Scarred);3;$185.23
+StatTrak™ M4A4 | Zirka (Factory New);3;$60.00
+★ Flip Knife | Urban Masked (Minimal Wear);3;$150.21
+★ StatTrak™ Gut Knife | Boreal Forest (Field-Tested);3;$171.82
+StatTrak™ AK-47 | Fire Serpent (Field-Tested);3;$126.18
+★ Bayonet | Urban Masked (Field-Tested);3;$88.98
+★ M9 Bayonet | Blue Steel (Field-Tested);3;$170.00
+★ Gut Knife | Case Hardened (Field-Tested);3;$95.01
+MP7 | Whiteout (Factory New);3;$14.91
+★ M9 Bayonet | Boreal Forest (Minimal Wear);3;$96.94
+★ Gut Knife | Case Hardened (Battle-Scarred);3;$98.00
+★ Flip Knife | Case Hardened (Well-Worn);2;$100.00
+★ Karambit | Blue Steel (Well-Worn);2;$214.77
+★ StatTrak™ Flip Knife | Forest DDPAT (Well-Worn);2;$268.45
+StatTrak™ AK-47 | Fire Serpent (Minimal Wear);2;$213.02
+★ Flip Knife | Night (Battle-Scarred);2;$87.48
+★ Flip Knife | Stained (Well-Worn);2;$75.16
+★ Flip Knife | Stained (Battle-Scarred);2;$73.84
+★ Gut Knife | Crimson Web (Minimal Wear);2;$168.62
+★ M9 Bayonet | Night (Minimal Wear);2;$171.18
+★ Flip Knife | Slaughter (Field-Tested);2;$178.49
+★ Flip Knife | Scorched (Minimal Wear);2;$98.00
+★ Flip Knife | Safari Mesh (Minimal Wear);2;$80.50
+★ M9 Bayonet | Urban Masked (Minimal Wear);2;$135.50
+★ Gut Knife | Night (Battle-Scarred);2;$79.20
+★ StatTrak™ Bayonet | Boreal Forest (Field-Tested);2;$213.90
+★ StatTrak™ M9 Bayonet | Urban Masked (Field-Tested);2;$228.19
+★ Gut Knife | Night (Well-Worn);2;$75.00
+★ Bayonet | Safari Mesh (Well-Worn);2;$79.54
+★ Gut Knife | Safari Mesh (Minimal Wear);2;$99.33
+★ Flip Knife | Forest DDPAT (Well-Worn);2;$95.45
+★ Flip Knife | Forest DDPAT (Minimal Wear);2;$118.13
+★ Gut Knife | Scorched (Minimal Wear);2;$109.25
+★ StatTrak™ Bayonet | Stained (Field-Tested);2;$350.75
+★ StatTrak™ Flip Knife | Blue Steel (Well-Worn);2;$207.00
+★ StatTrak™ Flip Knife | Boreal Forest (Field-Tested);2;$172.50
+★ StatTrak™ Gut Knife | Safari Mesh (Field-Tested);2;$200.67
+★ Gut Knife | Stained (Minimal Wear);2;$80.27
+★ Karambit | Slaughter (Minimal Wear);2;$368.00
+★ Flip Knife | Boreal Forest (Field-Tested);2;$74.99
+★ StatTrak™ Flip Knife | Case Hardened (Minimal Wear);2;$293.25
+★ Gut Knife | Urban Masked (Minimal Wear);2;$92.61
+★ Gut Knife | Urban Masked (Well-Worn);2;$98.82
+★ Flip Knife | Blue Steel (Well-Worn);2;$92.61
+★ Gut Knife | Blue Steel (Minimal Wear);2;$117.30
+★ Karambit | Blue Steel (Factory New);2;$365.82
+StatTrak™ Galil AR | Orange DDPAT (Factory New);2;$45.62
+★ Bayonet | Urban Masked (Well-Worn);2;$123.48
+★ Bayonet | Urban Masked (Minimal Wear);2;$124.68
+★ M9 Bayonet | Scorched (Minimal Wear);2;$115.00
+★ Bayonet | Urban Masked (Battle-Scarred);2;$97.17
+★ Bayonet | Stained (Minimal Wear);2;$123.48
+★ M9 Bayonet | Case Hardened (Field-Tested);2;$179.88
+★ Bayonet | Slaughter (Field-Tested);2;$200.00
+★ M9 Bayonet | Case Hardened (Battle-Scarred);2;$167.70
+★ Karambit | Case Hardened (Field-Tested);2;$255.02
+★ StatTrak™ Gut Knife | Blue Steel (Well-Worn);2;$248.33
+★ Bayonet | Scorched (Factory New);2;$163.85
+★ Bayonet | Scorched (Battle-Scarred);2;$98.90
+★ Karambit | Stained (Minimal Wear);2;$207.00
+★ Bayonet | Night (Minimal Wear);2;$181.19
+★ StatTrak™ Gut Knife | Forest DDPAT (Field-Tested);2;$179.46
+★ Karambit | Forest DDPAT (Battle-Scarred);2;$151.99
+★ Bayonet | Forest DDPAT (Well-Worn);2;$131.21
+★ Bayonet | Forest DDPAT (Battle-Scarred);2;$118.13
+★ Karambit | Night (Battle-Scarred);2;$213.02
+★ Bayonet | Crimson Web (Well-Worn);2;$168.97
+★ Bayonet | Crimson Web (Minimal Wear);2;$334.01
+★ StatTrak™ Gut Knife | Scorched (Minimal Wear);2;$169.85
+★ Bayonet | Boreal Forest (Minimal Wear);2;$108.04
+StatTrak™ P90 | Emerald Dragon (Factory New);2;$249.98
+★ StatTrak™ Karambit | Forest DDPAT (Field-Tested);2;$328.85
+★ StatTrak™ Karambit | Scorched (Field-Tested);2;$365.10
+StatTrak™ SSG 08 | Blood in the Water (Field-Tested);2;$62.10
+★ StatTrak™ M9 Bayonet | Forest DDPAT (Field-Tested);2;$274.35
+★ M9 Bayonet | Stained (Battle-Scarred);2;$99.99
+★ M9 Bayonet | Safari Mesh (Battle-Scarred);2;$110.00
+★ Karambit | Stained (Battle-Scarred);2;$201.31
+★ Karambit | Stained (Factory New);2;$248.33
+★ M9 Bayonet | Crimson Web (Battle-Scarred);2;$167.00
+★ Gut Knife | Night (Minimal Wear);2;$118.81
+★ StatTrak™ Flip Knife | Crimson Web (Field-Tested);2;$300.00
+★ StatTrak™ Bayonet | Forest DDPAT (Field-Tested);2;$207.85
+★ Karambit | Blue Steel (Minimal Wear);1;$301.00
+★ Flip Knife | Urban Masked (Battle-Scarred);1;$86.25
+★ Karambit | Urban Masked (Well-Worn);1;$223.82
+★ Karambit | Scorched (Minimal Wear);1;$200.67
+★ Karambit | Safari Mesh (Well-Worn);1;$140.94
+★ M9 Bayonet | Blue Steel (Factory New);1;$330.00
+★ Karambit | Safari Mesh (Minimal Wear);1;$178.25
+★ StatTrak™ M9 Bayonet | Urban Masked (Battle-Scarred);1;$281.87
+★ M9 Bayonet | Blue Steel (Well-Worn);1;$161.00
+★ M9 Bayonet | Boreal Forest (Battle-Scarred);1;$123.48
+★ Karambit | Forest DDPAT (Minimal Wear);1;$219.49
+★ Karambit | Crimson Web (Battle-Scarred);1;$287.50
+★ Karambit | Case Hardened (Factory New);1;$385.89
+★ M9 Bayonet | Case Hardened (Factory New);1;$282.21
+★ Karambit | Boreal Forest (Well-Worn);1;$138.27
+★ Karambit | Boreal Forest (Minimal Wear);1;$299.00
+★ M9 Bayonet | Case Hardened (Well-Worn);1;$154.35
+★ Flip Knife | Boreal Forest (Minimal Wear);1;$100.33
+★ Karambit | Boreal Forest (Battle-Scarred);1;$158.35
+★ M9 Bayonet | Crimson Web (Minimal Wear);1;$399.79
+★ M9 Bayonet | Crimson Web (Well-Worn);1;$295.29
+★ Karambit | Slaughter (Field-Tested);1;$327.75
+★ M9 Bayonet | Forest DDPAT (Battle-Scarred);1;$150.00
+★ Gut Knife | Slaughter (Field-Tested);1;$134.98
+★ M9 Bayonet | Forest DDPAT (Well-Worn);1;$107.41
+★ Gut Knife | Scorched (Battle-Scarred);1;$138.00
+★ Gut Knife | Forest DDPAT (Well-Worn);1;$101.86
+★ Gut Knife | Crimson Web (Well-Worn);1;$120.81
+StatTrak™ AK-47 | Fire Serpent (Battle-Scarred);1;$92.61
+★ Gut Knife | Blue Steel (Battle-Scarred);1;$106.95
+★ M9 Bayonet | Safari Mesh (Well-Worn);1;$114.97
+★ M9 Bayonet | Scorched (Battle-Scarred);1;$117.18
+★ Flip Knife | Urban Masked (Well-Worn);1;$73.84
+★ StatTrak™ Bayonet | Stained (Battle-Scarred);1;$241.50
+★ M9 Bayonet | Scorched (Well-Worn);1;$127.51
+★ Flip Knife | Urban Masked (Factory New);1;$134.24
+★ M9 Bayonet | Slaughter (Field-Tested);1;$212.49
+★ Flip Knife | Stained (Factory New);1;$138.00
+StatTrak™ AK-47 | Red Laminate (Factory New);1;$379.50
+★ M9 Bayonet | Stained (Factory New);1;$194.61
+★ Flip Knife | Scorched (Well-Worn);1;$100.67
+★ M9 Bayonet | Stained (Minimal Wear);1;$115.42
+StatTrak™ AWP | BOOM (Factory New);1;$147.38
+★ M9 Bayonet | Urban Masked (Battle-Scarred);1;$92.61
+★ Flip Knife | Scorched (Battle-Scarred);1;$154.36
+★ Flip Knife | Safari Mesh (Factory New);1;$138.00
+★ StatTrak™ Bayonet | Blue Steel (Field-Tested);1;$322.00
+★ Flip Knife | Night (Minimal Wear);1;$132.88
+★ StatTrak™ Bayonet | Case Hardened (Battle-Scarred);1;$216.10
+★ StatTrak™ Bayonet | Forest DDPAT (Battle-Scarred);1;$170.00
+★ Flip Knife | Crimson Web (Minimal Wear);1;$345.00
+★ StatTrak™ Bayonet | Forest DDPAT (Minimal Wear);1;$274.35
+★ StatTrak™ Bayonet | Safari Mesh (Field-Tested);1;$185.23
+StatTrak™ AWP | Lightning Strike (Minimal Wear);1;$54.87
+★ Flip Knife | Forest DDPAT (Battle-Scarred);1;$125.00
+★ StatTrak™ Bayonet | Urban Masked (Well-Worn);1;$199.12
+★ StatTrak™ Flip Knife;1;$223.82
+★ StatTrak™ Flip Knife | Blue Steel (Field-Tested);1;$308.72
+★ StatTrak™ Flip Knife | Blue Steel (Minimal Wear);1;$239.98
+★ Flip Knife | Fade (Minimal Wear);1;$180.00
+★ StatTrak™ Flip Knife | Boreal Forest (Battle-Scarred);1;$198.65
+★ Flip Knife | Crimson Web (Well-Worn);1;$174.50
+★ StatTrak™ Flip Knife | Case Hardened (Field-Tested);1;$216.10
+★ Flip Knife | Boreal Forest (Factory New);1;$165.00
+★ StatTrak™ Flip Knife | Case Hardened (Well-Worn);1;$290.00
+★ Karambit | Stained (Well-Worn);1;$287.50
+★ Karambit | Scorched (Well-Worn);1;$268.58
+★ StatTrak™ Flip Knife | Night (Well-Worn);1;$200.67
+★ StatTrak™ Flip Knife | Safari Mesh (Battle-Scarred);1;$147.67
+★ StatTrak™ Flip Knife | Urban Masked (Field-Tested);1;$151.80
+★ StatTrak™ Flip Knife | Urban Masked (Minimal Wear);1;$195.50
+★ StatTrak™ Gut Knife | Blue Steel (Battle-Scarred);1;$278.36
+★ StatTrak™ Gut Knife | Blue Steel (Factory New);1;$256.07
+★ Bayonet | Scorched (Well-Worn);1;$99.68
+★ StatTrak™ Gut Knife | Boreal Forest (Battle-Scarred);1;$308.72
+★ Bayonet | Night (Well-Worn);1;$154.36
+★ StatTrak™ Gut Knife | Crimson Web (Field-Tested);1;$295.29
+★ StatTrak™ Gut Knife | Crimson Web (Well-Worn);1;$308.72
+StatTrak™ MAC-10 | Graven (Factory New);1;$46.00
+★ StatTrak™ Gut Knife | Forest DDPAT (Well-Worn);1;$201.19
+★ StatTrak™ Gut Knife | Night (Battle-Scarred);1;$264.50
+★ StatTrak™ Gut Knife | Night (Field-Tested);1;$335.57
+★ StatTrak™ Gut Knife | Safari Mesh (Factory New);1;$342.36
+★ Karambit | Night (Minimal Wear);1;$223.82
+★ StatTrak™ Gut Knife | Safari Mesh (Well-Worn);1;$200.00
+★ StatTrak™ Gut Knife | Scorched (Battle-Scarred);1;$246.06
+★ Bayonet | Boreal Forest (Well-Worn);1;$75.00
+★ StatTrak™ Gut Knife | Stained (Field-Tested);1;$137.00
+★ StatTrak™ Gut Knife | Urban Masked (Battle-Scarred);1;$200.67
+★ StatTrak™ Gut Knife | Urban Masked (Field-Tested);1;$195.50
+★ StatTrak™ Karambit | Case Hardened (Field-Tested);1;$400.00
+★ Bayonet | Blue Steel (Well-Worn);1;$114.10
+★ StatTrak™ Karambit | Safari Mesh (Field-Tested);1;$300.00
+★ Bayonet | Blue Steel (Battle-Scarred);1;$108.04
+★ StatTrak™ M9 Bayonet;1;$408.06
+★ StatTrak™ M9 Bayonet | Boreal Forest (Minimal Wear);1;$287.50
+★ StatTrak™ M9 Bayonet | Case Hardened (Field-Tested);1;$334.91
+Tec-9 | Nuclear Threat (Factory New);1;$134.24
+★ StatTrak™ M9 Bayonet | Night (Battle-Scarred);1;$167.79
+★ StatTrak™ M9 Bayonet | Safari Mesh (Well-Worn);1;$172.50
+★ StatTrak™ M9 Bayonet | Scorched (Battle-Scarred);1;$231.53
+★ StatTrak™ M9 Bayonet | Scorched (Minimal Wear);1;$400.00
+★ StatTrak™ M9 Bayonet | Stained (Well-Worn);1;$243.80
+XM1014 | Blaze Orange (Factory New);1;$21.48
+MP9 | Bulldozer (Factory New);1;$29.50
+★ StatTrak™ M9 Bayonet | Scorched (Field-Tested);1;$202.89
+★ M9 Bayonet | Forest DDPAT (Minimal Wear);1;$160.00
+★ Gut Knife | Safari Mesh (Battle-Scarred);1;$140.94
