@@ -31,13 +31,12 @@ var processPage = function(){
 		var weaponPrices = document.querySelectorAll('a.market_listing_row_link div.market_listing_right_cell span:last-child');
 		for (var i = 0; i < weaponNames.length; i++) {
 			var tempPrice = weaponPrices[i].innerHTML.substring(weaponPrices[i].innerHTML.indexOf("$"), weaponPrices[i].innerHTML.lastIndexOf(".") + 3);
-			tempNames[i] = weaponNames[i].innerHTML.concat(" ", weaponQuantities[i].innerHTML, " ", tempPrice);
+			tempNames[i] = weaponNames[i].innerHTML.concat(";", weaponQuantities[i].innerHTML, ";", tempPrice);
 		};
 		return tempNames;	
 	});
 
 	weaponsAll = weaponsAll.concat(weaponsOnPage);
-	// this.echo(weaponsOnPage.join("\n"));
 
 	if (currentPage === pages) {
 		return terminate.call(casper);
